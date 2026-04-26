@@ -35,13 +35,18 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
       
-      - name: 📤 Guardar cambios
-        run: |
-          git add noticias*.json
-          git commit -m "✅ Noticias actualizadas - $(date '+%Y-%m-%d %H:%M')" || echo "No hay cambios"
-      
-      - name: 🔄 Push
-        run: git push origin main || echo "Nada que hacer"
-      
-      - name: 🎉 Completado
-        run: echo "✅ Noticias recopiladas correctamente"
+    - name: 📤 Guardar cambios
+  run: |
+    ls -la noticias*.json || echo "No se encontraron archivos"
+    git config user.email "action@github.com"
+    git config user.name "GitHub Action"
+    git add noticias*.json
+    git commit -m "✅ Noticias actualizadas - $(date '+%Y-%m-%d %H:%M')" || echo "No hay cambios"
+    git log --oneline -5
+
+- name: 🔄 Push
+  run: |
+    git push origin main -v || echo "Error en push"
+
+- name: 🎉 Completado
+  run: echo "✅ Noticias recopiladas correctamente"
