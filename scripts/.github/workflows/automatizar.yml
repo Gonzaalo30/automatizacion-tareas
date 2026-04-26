@@ -1,3 +1,10 @@
+name: Recopilador de Noticias para LinkedIn
+
+on:
+  schedule:
+    - cron: '0 9 * * 1'
+  workflow_dispatch:
+
 jobs:
   recopilador-noticias:
     runs-on: ubuntu-latest
