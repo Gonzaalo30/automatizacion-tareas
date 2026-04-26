@@ -1,16 +1,45 @@
-name: Ejecutar Tareas Nuevas
+name: Recopilador de Noticias para LinkedIn
 
 on:
   schedule:
-    - cron: '0 7 * * 1'
+    - cron: '0 9 * * 1'
   workflow_dispatch:
 
 jobs:
-  tareas:
+  recopilador-noticias:
     runs-on: ubuntu-latest
+    
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-python@v4
         with:
           python-version: '3.11'
-      - run: echo "✅ Resumen de tareas ejecutado correctamente"
+      
+      - name: 📦 Instalar librerías
+        run: |
+          python -m pip install --upgrade pip
+          pip install feedparser requests
+      
+      - name: 🚀 Ejecutar recopilador
+        run: python scripts/recopilador_noticias_lunes.py
+      
+      - name: ✅ Verificar archivos
+        run: |
+          echo "📁 Archivos generados:"
+          ls -lah noticias*.json
+      
+      - name: 🔧 Configurar Git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+      
+      - name: 📤 Guardar cambios
+        run: |
+          git add noticias*.json
+          git commit -m "✅ Noticias actualizadas - $(date '+%Y-%m-%d %H:%M')" || echo "No hay cambios"
+      
+      - name: 🔄 Push
+        run: git push origin main || echo "Nada que hacer"
+      
+      - name: 🎉 Completado
+        run: echo "✅ Noticias recopiladas correctamente"
