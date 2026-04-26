@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-"""
+import sys
+print(f"Python version: {sys.version}")
+print(f"Python path: {sys.executable}")
 MAESTRO DE NOTICIAS PARA LINKEDIN
 Recopila noticias de IA, SEO, SEO Local y Marketing Digital
 Las combina en un único JSON que será leído por Claude para crear posts
