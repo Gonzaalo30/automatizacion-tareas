@@ -34,9 +34,7 @@ jobs:
           git commit -m "✅ Noticias actualizadas - $(date '+%Y-%m-%d %H:%M')" || echo "No hay cambios"
       
       - name: 🔄 Push
-  run: |
-    git pull origin main --rebase || true
-    git push origin main
+  run: git push -u origin main --force
       
       - name: 🎉 Completado
         run: echo "✅ Noticias recopiladas correctamente"
