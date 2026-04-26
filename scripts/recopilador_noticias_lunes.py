@@ -99,15 +99,24 @@ def obtener_todas_noticias():
     return datos_finales
 
 if __name__ == "__main__":
-    noticias = obtener_todas_noticias()
-    
-    # Guardar JSON
-    output_path = Path('../noticias_lunes.json')
-    with open(output_path, 'w', encoding='utf-8') as f:
-        json.dump(noticias, f, indent=2, ensure_ascii=False)
-    
-    print("\n" + "="*70)
-    print(f"✅ ÉXITO: {noticias['total_noticias']} noticias guardadas")
-    print(f"📁 Archivo: {output_path}")
-    print(f"📅 Fecha: {noticias['fecha_generacion']}")
-    print("="*70 + "\n")
+    try:
+        print("\n🚀 Iniciando recopilación de noticias...")
+        noticias = obtener_todas_noticias()
+        
+        print(f"\n📊 Noticias recopiladas: {noticias['total_noticias']}")
+        
+        # Guardar JSON
+        output_path = Path('../noticias_lunes.json')
+        print(f"📁 Guardando en: {output_path}")
+        print(f"📁 Ruta absoluta: {output_path.absolute()}")
+        
+        with open(output_path, 'w', encoding='utf-8') as f:
+            json.dump(noticias, f, indent=2, ensure_ascii=False)
+        
+        print(f"✅ ÉXITO: Archivo guardado en {output_path}")
+        
+    except Exception as e:
+        print(f"\n❌ ERROR: {str(e)}")
+        import traceback
+        traceback.print_exc()
+        sys.exit(1)
