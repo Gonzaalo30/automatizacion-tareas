@@ -25,9 +25,10 @@ jobs:
         run: python scripts/recopilador_noticias_lunes.py
       
       - name: ✅ Verificar archivos
-        run: |
-          echo "📁 Archivos generados:"
-          ls -lah noticias*.json
+  run: |
+    echo "📁 Archivos generados:"
+    ls -lah noticias*.json || echo "Buscando en raíz..."
+    ls -la ../noticias_lunes.json || echo "No encontrado"
       
       - name: 🔧 Configurar Git
         run: |
