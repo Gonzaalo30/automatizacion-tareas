@@ -90,7 +90,7 @@ if __name__ == "__main__":
         print(f"\n📊 Total de noticias: {noticias['total_noticias']}")
         
         # Guardar JSON
-        output_path = Path('../noticias_lunes.json')
+        output_path = Path('noticias_lunes.json')
         print(f"\n📁 Guardando en: {output_path}")
         print(f"📁 Ruta absoluta: {output_path.absolute()}")
         
