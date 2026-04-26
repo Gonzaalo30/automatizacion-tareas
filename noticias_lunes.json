@@ -1,0 +1,90 @@
+{
+  "fecha_generacion": "2026-04-26T23:40:48.719927",
+  "dia_ejecucion": "Lunes 9:00 AM",
+  "noticias_por_categoria": {
+    "IA": [
+      {
+        "titulo": "I bought Friendster for $30k – Here's what I'm doing with it",
+        "enlace": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
+        "fuente": "Hacker News",
+        "fecha": "Sun, 26 Apr 2026 20:41:06 +0000",
+        "categoria": "IA"
+      },
+      {
+        "titulo": "Fast16: High-precision software sabotage 5 years before Stuxnet",
+        "enlace": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
+        "fuente": "Hacker News",
+        "fecha": "Sun, 26 Apr 2026 20:18:37 +0000",
+        "categoria": "IA"
+      }
+    ],
+    "SEO": [
+      {
+        "titulo": "The Fully Non-Human Web: No One Builds The Page, No One Visits It via @sejournal, @slobodanmanic",
+        "enlace": "https://www.searchenginejournal.com/the-fully-non-human-web-no-one-builds-the-page-no-one-visits-it/571406/",
+        "fuente": "Search Engine Journal",
+        "fecha": "Sun, 26 Apr 2026 12:00:08 +0000",
+        "categoria": "SEO"
+      },
+      {
+        "titulo": "AI Overview CTR Fell 61%, But Clicks Didn’t Collapse via @sejournal, @MattGSouthern",
+        "enlace": "https://www.searchenginejournal.com/ai-overview-ctr-fell-61-but-clicks-didnt-collapse/572993/",
+        "fuente": "Search Engine Journal",
+        "fecha": "Sun, 26 Apr 2026 05:00:17 +0000",
+        "categoria": "SEO"
+      },
+      {
+        "titulo": "Cannibalization",
+        "enlace": "https://feedpress.me/link/9375/14757949/cannibalization",
+        "fuente": "Moz Blog",
+        "fecha": "Fri, 17 Sep 2021 00:00:00 -0700",
+        "categoria": "SEO"
+      },
+      {
+        "titulo": "Tackling 8,000 Title Tag Rewrites: A Case Study",
+        "enlace": "https://feedpress.me/link/9375/14753388/title-tag-rewrite-case-study",
+        "fuente": "Moz Blog",
+        "fecha": "Thu, 16 Sep 2021 00:00:00 -0700",
+        "categoria": "SEO"
+      }
+    ],
+    "SEO Local": [],
+    "Marketing Digital": [
+      {
+        "titulo": "AI citation tracking: How to track (and grow) AI engine citations",
+        "enlace": "https://blog.hubspot.com/marketing/ai-citation-tracking",
+        "fuente": "HubSpot Blog",
+        "fecha": "Fri, 24 Apr 2026 14:42:12 GMT",
+        "categoria": "Marketing Digital"
+      },
+      {
+        "titulo": "Generative engine optimization KPIs that actually matter for marketing teams",
+        "enlace": "https://blog.hubspot.com/marketing/geo-kpis",
+        "fuente": "HubSpot Blog",
+        "fecha": "Thu, 23 Apr 2026 16:04:53 GMT",
+        "categoria": "Marketing Digital"
+      },
+      {
+        "titulo": "SEO 101: Basics for 2026",
+        "enlace": "https://neilpatel.com/blog/seo-basics/",
+        "fuente": "Neil Patel",
+        "fecha": "Thu, 23 Apr 2026 19:00:00 +0000",
+        "categoria": "Marketing Digital"
+      },
+      {
+        "titulo": "What are Backlinks and Why are they Crucial for SEO?",
+        "enlace": "https://neilpatel.com/blog/what-are-backlinks/",
+        "fuente": "Neil Patel",
+        "fecha": "Wed, 22 Apr 2026 19:00:00 +0000",
+        "categoria": "Marketing Digital"
+      }
+    ]
+  },
+  "total_noticias": 10,
+  "categorias": [
+    "IA",
+    "SEO",
+    "SEO Local",
+    "Marketing Digital"
+  ]
+}
