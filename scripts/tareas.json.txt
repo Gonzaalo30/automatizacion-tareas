@@ -1,0 +1,57 @@
+bash
+
+cat /home/claude/tareas.json
+Salida
+
+[
+  {
+    "nombre": "Propuesta para M3",
+    "cliente": "M3",
+    "tipo": "Puntual",
+    "duracion": "3 horas",
+    "fecha_dias": "Hoy",
+    "urgencia": "Alta",
+    "estado": "Pendiente",
+    "notas": "Cliente espera respuesta mañana"
+  },
+  {
+    "nombre": "Análisis de campaña Gadinver",
+    "cliente": "Gadinver",
+    "tipo": "Puntual",
+    "duracion": "2 horas",
+    "fecha_dias": "Miércoles",
+    "urgencia": "Alta",
+    "estado": "En progreso",
+    "notas": "Revisar ROI y conversiones"
+  },
+  {
+    "nombre": "Informe mensual de SEO",
+    "cliente": "Gadinver",
+    "tipo": "Recurrente",
+    "duracion": "4 horas",
+    "fecha_dias": "Último viernes del mes",
+    "urgencia": "Media",
+    "estado": "Pendiente",
+    "notas": "Generar dashboard con métricas"
+  },
+  {
+    "nombre": "Actualizar Google Business Profile",
+    "cliente": "MarketingLab",
+    "tipo": "Puntual",
+    "duracion": "30 min",
+    "fecha_dias": "Martes",
+    "urgencia": "Baja",
+    "estado": "Pendiente",
+    "notas": "Agregar nuevas fotos y horarios"
+  },
+  {
+    "nombre": "Revisar posicionamiento de keywords",
+    "cliente": "M3",
+    "tipo": "Puntual",
+    "duracion": "1 hora",
+    "fecha_dias": "Viernes",
+    "urgencia": "Media",
+    "estado": "Hecho",
+    "notas": "Top 3 mejorado un 15%"
+  }
+]
