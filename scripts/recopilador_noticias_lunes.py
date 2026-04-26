@@ -1,23 +1,21 @@
 #!/usr/bin/env python3
 import sys
-print(f"Python version: {sys.version}")
-print(f"Python path: {sys.executable}")
-MAESTRO DE NOTICIAS PARA LINKEDIN
-Recopila noticias de IA, SEO, SEO Local y Marketing Digital
-Las combina en un único JSON que será leído por Claude para crear posts
-"""
-
-import feedparser
 import json
 from datetime import datetime
 from pathlib import Path
-from collections import defaultdict
+
+print(f"Python version: {sys.version}")
+print(f"Python path: {sys.executable}")
+
+try:
+    import feedparser
+    print("✅ feedparser importado correctamente")
+except ImportError as e:
+    print(f"❌ Error importando feedparser: {e}")
+    sys.exit(1)
 
 def obtener_todas_noticias():
-    """
-    Recopila noticias de todas las categorías
-    Prioriza: Si no hay SEO, agrega más IA
-    """
+    """Recopila noticias de todas las categorías"""
     
     feeds = {
         'IA': {
@@ -29,36 +27,35 @@ def obtener_todas_noticias():
             'Search Engine Roundtable': 'https://www.seroundtable.com/rss.xml',
             'Search Engine Journal': 'https://www.searchenginejournal.com/feed/',
             'Moz Blog': 'https://moz.com/blog/feed',
-            'SEO by the Sea': 'https://www.seobythesea.com/feed/',
         },
         'SEO Local': {
-            'Search Engine Roundtable': 'https://www.seroundtable.com/rss.xml',
             'Bright Local': 'https://www.brightlocal.com/feed/',
             'Google Business': 'https://support.google.com/business/feed/feed.xml',
         },
         'Marketing Digital': {
             'HubSpot Blog': 'https://blog.hubspot.com/marketing/feed',
             'Neil Patel': 'https://neilpatel.com/blog/feed/',
-            'Copyblogger': 'https://www.copyblogger.com/feed/',
         }
     }
     
-    todas_noticias = defaultdict(list)
-    limite_por_feed = 2
+    todas_noticias = {}
     
     print("\n" + "="*70)
-    print("🚀 RECOPILANDO NOTICIAS PARA LINKEDIN (Lunes 9:00 AM)")
+    print("🚀 RECOPILANDO NOTICIAS PARA LINKEDIN")
     print("="*70 + "\n")
     
     for categoria, fuentes in feeds.items():
+        todas_noticias[categoria] = []
         print(f"\n📍 Categoría: {categoria}")
         print("-" * 70)
         
         for nombre_fuente, url_feed in fuentes.items():
             try:
+                print(f"   📡 Leyendo: {nombre_fuente}...", end=" ")
                 feed = feedparser.parse(url_feed)
                 
-                for entry in feed.entries[:limite_por_feed]:
+                count = 0
+                for entry in feed.entries[:2]:
                     noticia = {
                         'titulo': entry.get('title', 'Sin título'),
                         'enlace': entry.get('link', ''),
@@ -67,31 +64,18 @@ def obtener_todas_noticias():
                         'categoria': categoria
                     }
                     todas_noticias[categoria].append(noticia)
-                    print(f"   ✓ {noticia['titulo'][:60]}...")
+                    count += 1
+                
+                print(f"✓ ({count} noticias)")
                     
             except Exception as e:
-                print(f"   ⚠️ Error en {nombre_fuente}: {str(e)}")
-    
-    # Lógica: Si SEO está vacío, agregar más IA
-    if not todas_noticias.get('SEO'):
-        print("\n⚠️  No hay noticias de SEO. Agregando más de IA...")
-        # Intenta buscar más en feeds de IA
-        feed_extra = feedparser.parse('https://www.seroundtable.com/rss.xml')
-        for entry in feed_extra.entries[2:5]:
-            noticia = {
-                'titulo': entry.get('title', 'Sin título'),
-                'enlace': entry.get('link', ''),
-                'fuente': 'Search Engine Roundtable',
-                'fecha': entry.get('published', datetime.now().isoformat()),
-                'categoria': 'IA'
-            }
-            todas_noticias['IA'].append(noticia)
+                print(f"❌ Error: {str(e)}")
     
     # Crear JSON final
     datos_finales = {
         'fecha_generacion': datetime.now().isoformat(),
         'dia_ejecucion': 'Lunes 9:00 AM',
-        'noticias_por_categoria': dict(todas_noticias),
+        'noticias_por_categoria': todas_noticias,
         'total_noticias': sum(len(v) for v in todas_noticias.values()),
         'categorias': list(todas_noticias.keys())
     }
@@ -103,20 +87,21 @@ if __name__ == "__main__":
         print("\n🚀 Iniciando recopilación de noticias...")
         noticias = obtener_todas_noticias()
         
-        print(f"\n📊 Noticias recopiladas: {noticias['total_noticias']}")
+        print(f"\n📊 Total de noticias: {noticias['total_noticias']}")
         
         # Guardar JSON
         output_path = Path('../noticias_lunes.json')
-        print(f"📁 Guardando en: {output_path}")
+        print(f"\n📁 Guardando en: {output_path}")
         print(f"📁 Ruta absoluta: {output_path.absolute()}")
         
         with open(output_path, 'w', encoding='utf-8') as f:
             json.dump(noticias, f, indent=2, ensure_ascii=False)
         
-        print(f"✅ ÉXITO: Archivo guardado en {output_path}")
+        print(f"✅ ÉXITO: Archivo guardado correctamente")
+        print(f"📊 Noticias generadas: {noticias['total_noticias']}")
         
     except Exception as e:
-        print(f"\n❌ ERROR: {str(e)}")
+        print(f"\n❌ ERROR FATAL: {str(e)}")
         import traceback
         traceback.print_exc()
         sys.exit(1)
