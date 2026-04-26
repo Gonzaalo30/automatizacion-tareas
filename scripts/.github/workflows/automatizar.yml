@@ -24,11 +24,6 @@ jobs:
       - name: 🚀 Ejecutar recopilador
         run: python scripts/recopilador_noticias_lunes.py
       
-     - name: ✅ Verificar archivos
-  run: |
-    ls -la noticias*.json 2>/dev/null || ls -la ../noticias_lunes.json 2>/dev/null || echo "Archivo creado en carpeta anterior"
-  continue-on-error: true
-      
       - name: 🔧 Configurar Git
         run: |
           git config --local user.email "action@github.com"
