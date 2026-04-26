@@ -1,4 +1,4 @@
-name: Automatizar Tareas
+name: Ejecutar Tareas Nuevas
 
 on:
   schedule:
