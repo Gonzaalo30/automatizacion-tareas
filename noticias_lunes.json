@@ -1,20 +1,20 @@
 {
-  "fecha_generacion": "2026-04-26T23:40:48.719927",
+  "fecha_generacion": "2026-04-27T11:01:28.545063",
   "dia_ejecucion": "Lunes 9:00 AM",
   "noticias_por_categoria": {
     "IA": [
+      {
+        "titulo": "Flipdiscs",
+        "enlace": "https://flipdisc.io",
+        "fuente": "Hacker News",
+        "fecha": "Thu, 23 Apr 2026 13:54:31 +0000",
+        "categoria": "IA"
+      },
       {
         "titulo": "I bought Friendster for $30k – Here's what I'm doing with it",
         "enlace": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
         "fuente": "Hacker News",
         "fecha": "Sun, 26 Apr 2026 20:41:06 +0000",
-        "categoria": "IA"
-      },
-      {
-        "titulo": "Fast16: High-precision software sabotage 5 years before Stuxnet",
-        "enlace": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
-        "fuente": "Hacker News",
-        "fecha": "Sun, 26 Apr 2026 20:18:37 +0000",
         "categoria": "IA"
       }
     ],
