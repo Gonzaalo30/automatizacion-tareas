@@ -1,36 +1,36 @@
 {
-  "fecha_generacion": "2026-04-27T11:01:28.545063",
+  "fecha_generacion": "2026-05-04T11:03:20.223283",
   "dia_ejecucion": "Lunes 9:00 AM",
   "noticias_por_categoria": {
     "IA": [
       {
-        "titulo": "Flipdiscs",
-        "enlace": "https://flipdisc.io",
+        "titulo": "GameStop makes $55.5B takeover offer for eBay",
+        "enlace": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
         "fuente": "Hacker News",
-        "fecha": "Thu, 23 Apr 2026 13:54:31 +0000",
+        "fecha": "Mon, 04 May 2026 09:31:12 +0000",
         "categoria": "IA"
       },
       {
-        "titulo": "I bought Friendster for $30k – Here's what I'm doing with it",
-        "enlace": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
+        "titulo": "Trademark violation: Fake Notepad++ for Mac",
+        "enlace": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
         "fuente": "Hacker News",
-        "fecha": "Sun, 26 Apr 2026 20:41:06 +0000",
+        "fecha": "Mon, 04 May 2026 09:40:06 +0000",
         "categoria": "IA"
       }
     ],
     "SEO": [
       {
-        "titulo": "The Fully Non-Human Web: No One Builds The Page, No One Visits It via @sejournal, @slobodanmanic",
-        "enlace": "https://www.searchenginejournal.com/the-fully-non-human-web-no-one-builds-the-page-no-one-visits-it/571406/",
+        "titulo": "Google Engineer Explains ‘Black Box’ AI Models In Search via @sejournal, @MattGSouthern",
+        "enlace": "https://www.searchenginejournal.com/google-engineer-explains-black-box-ai-models-in-search/573625/",
         "fuente": "Search Engine Journal",
-        "fecha": "Sun, 26 Apr 2026 12:00:08 +0000",
+        "fecha": "Mon, 04 May 2026 04:15:42 +0000",
         "categoria": "SEO"
       },
       {
-        "titulo": "AI Overview CTR Fell 61%, But Clicks Didn’t Collapse via @sejournal, @MattGSouthern",
-        "enlace": "https://www.searchenginejournal.com/ai-overview-ctr-fell-61-but-clicks-didnt-collapse/572993/",
+        "titulo": "Google’s March Core Update Shifted Visibility Away From Aggregators via @sejournal, @MattGSouthern",
+        "enlace": "https://www.searchenginejournal.com/googles-march-core-update-shifted-visibility-away-from-aggregators/573621/",
         "fuente": "Search Engine Journal",
-        "fecha": "Sun, 26 Apr 2026 05:00:17 +0000",
+        "fecha": "Sun, 03 May 2026 20:40:34 +0000",
         "categoria": "SEO"
       },
       {
@@ -51,17 +51,24 @@
     "SEO Local": [],
     "Marketing Digital": [
       {
-        "titulo": "AI citation tracking: How to track (and grow) AI engine citations",
-        "enlace": "https://blog.hubspot.com/marketing/ai-citation-tracking",
+        "titulo": "Keyword clustering: How to create a strategy for topic authority in 2026",
+        "enlace": "https://blog.hubspot.com/marketing/keyword-clustering",
         "fuente": "HubSpot Blog",
-        "fecha": "Fri, 24 Apr 2026 14:42:12 GMT",
+        "fecha": "Mon, 04 May 2026 11:00:03 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "Generative engine optimization KPIs that actually matter for marketing teams",
-        "enlace": "https://blog.hubspot.com/marketing/geo-kpis",
+        "titulo": "AEO prompt tracking for marketing teams",
+        "enlace": "https://blog.hubspot.com/marketing/aeo-prompt-tracking",
         "fuente": "HubSpot Blog",
-        "fecha": "Thu, 23 Apr 2026 16:04:53 GMT",
+        "fecha": "Fri, 01 May 2026 16:21:07 GMT",
+        "categoria": "Marketing Digital"
+      },
+      {
+        "titulo": "LinkedIn Articles: What Sets Them Apart & How to Write Them",
+        "enlace": "https://neilpatel.com/blog/linkedin-articles/",
+        "fuente": "Neil Patel",
+        "fecha": "Fri, 01 May 2026 19:00:00 +0000",
         "categoria": "Marketing Digital"
       },
       {
@@ -69,13 +76,6 @@
         "enlace": "https://neilpatel.com/blog/seo-basics/",
         "fuente": "Neil Patel",
         "fecha": "Thu, 23 Apr 2026 19:00:00 +0000",
-        "categoria": "Marketing Digital"
-      },
-      {
-        "titulo": "What are Backlinks and Why are they Crucial for SEO?",
-        "enlace": "https://neilpatel.com/blog/what-are-backlinks/",
-        "fuente": "Neil Patel",
-        "fecha": "Wed, 22 Apr 2026 19:00:00 +0000",
         "categoria": "Marketing Digital"
       }
     ]
