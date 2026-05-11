@@ -1,36 +1,36 @@
 {
-  "fecha_generacion": "2026-05-04T11:03:20.223283",
+  "fecha_generacion": "2026-05-11T12:08:55.172403",
   "dia_ejecucion": "Lunes 9:00 AM",
   "noticias_por_categoria": {
     "IA": [
       {
-        "titulo": "GameStop makes $55.5B takeover offer for eBay",
-        "enlace": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
+        "titulo": "Ratty – A terminal emulator with inline 3D graphics",
+        "enlace": "https://ratty-term.org/",
         "fuente": "Hacker News",
-        "fecha": "Mon, 04 May 2026 09:31:12 +0000",
+        "fecha": "Mon, 11 May 2026 10:13:04 +0000",
         "categoria": "IA"
       },
       {
-        "titulo": "Trademark violation: Fake Notepad++ for Mac",
-        "enlace": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
+        "titulo": "Hardware Attestation as Monopoly Enabler",
+        "enlace": "https://grapheneos.social/@GrapheneOS/116550899908879585",
         "fuente": "Hacker News",
-        "fecha": "Mon, 04 May 2026 09:40:06 +0000",
+        "fecha": "Sun, 10 May 2026 17:54:02 +0000",
         "categoria": "IA"
       }
     ],
     "SEO": [
       {
-        "titulo": "Google Engineer Explains ‘Black Box’ AI Models In Search via @sejournal, @MattGSouthern",
-        "enlace": "https://www.searchenginejournal.com/google-engineer-explains-black-box-ai-models-in-search/573625/",
+        "titulo": "How We Use AI To Run A 90-Day Growth Audit",
+        "enlace": "https://www.searchenginejournal.com/how-we-use-ai-to-run-a-90-day-growth-audit/572458/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 04 May 2026 04:15:42 +0000",
+        "fecha": "Mon, 11 May 2026 12:00:30 +0000",
         "categoria": "SEO"
       },
       {
-        "titulo": "Google’s March Core Update Shifted Visibility Away From Aggregators via @sejournal, @MattGSouthern",
-        "enlace": "https://www.searchenginejournal.com/googles-march-core-update-shifted-visibility-away-from-aggregators/573621/",
+        "titulo": "I Helped Build Google’s Keyword System. Here’s Why It’s Becoming Obsolete via @sejournal, @siliconvallaeys",
+        "enlace": "https://www.searchenginejournal.com/i-helped-build-googles-keyword-system-heres-why-its-becoming-obsolete/572362/",
         "fuente": "Search Engine Journal",
-        "fecha": "Sun, 03 May 2026 20:40:34 +0000",
+        "fecha": "Mon, 11 May 2026 11:30:56 +0000",
         "categoria": "SEO"
       },
       {
@@ -51,31 +51,31 @@
     "SEO Local": [],
     "Marketing Digital": [
       {
-        "titulo": "Keyword clustering: How to create a strategy for topic authority in 2026",
-        "enlace": "https://blog.hubspot.com/marketing/keyword-clustering",
+        "titulo": "6 generative engine optimization benefits every marketer should know",
+        "enlace": "https://blog.hubspot.com/marketing/6-generative-engine-optimization-benefits-every-marketer-should-know",
         "fuente": "HubSpot Blog",
-        "fecha": "Mon, 04 May 2026 11:00:03 GMT",
+        "fecha": "Fri, 08 May 2026 11:00:03 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "AEO prompt tracking for marketing teams",
-        "enlace": "https://blog.hubspot.com/marketing/aeo-prompt-tracking",
+        "titulo": "Digital Marketing Optimization: 10 Best Strategies to Increase Marketing ROI",
+        "enlace": "https://blog.hubspot.com/marketing/digital-marketing-optimization",
         "fuente": "HubSpot Blog",
-        "fecha": "Fri, 01 May 2026 16:21:07 GMT",
+        "fecha": "Thu, 07 May 2026 11:00:02 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "LinkedIn Articles: What Sets Them Apart & How to Write Them",
-        "enlace": "https://neilpatel.com/blog/linkedin-articles/",
+        "titulo": "Google Search Algorithm Changes: 2026 Update",
+        "enlace": "https://neilpatel.com/blog/the-ultimate-google-algorithm-cheat-sheet/",
         "fuente": "Neil Patel",
-        "fecha": "Fri, 01 May 2026 19:00:00 +0000",
+        "fecha": "Wed, 06 May 2026 19:00:00 +0000",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "SEO 101: Basics for 2026",
-        "enlace": "https://neilpatel.com/blog/seo-basics/",
+        "titulo": "What Does the TikTok Sale Mean for Advertisers?",
+        "enlace": "https://neilpatel.com/blog/tik-tok-sale-update/",
         "fuente": "Neil Patel",
-        "fecha": "Thu, 23 Apr 2026 19:00:00 +0000",
+        "fecha": "Tue, 05 May 2026 19:00:00 +0000",
         "categoria": "Marketing Digital"
       }
     ]
