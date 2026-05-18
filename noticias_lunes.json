@@ -1,36 +1,36 @@
 {
-  "fecha_generacion": "2026-05-11T12:08:55.172403",
+  "fecha_generacion": "2026-05-18T12:27:07.726535",
   "dia_ejecucion": "Lunes 9:00 AM",
   "noticias_por_categoria": {
     "IA": [
       {
-        "titulo": "Ratty – A terminal emulator with inline 3D graphics",
-        "enlace": "https://ratty-term.org/",
+        "titulo": "I automated opt-outs for 500 data broker sites (open source)",
+        "enlace": "https://github.com/stephenlthorn/auto-identity-remove",
         "fuente": "Hacker News",
-        "fecha": "Mon, 11 May 2026 10:13:04 +0000",
+        "fecha": "Mon, 18 May 2026 11:32:42 +0000",
         "categoria": "IA"
       },
       {
-        "titulo": "Hardware Attestation as Monopoly Enabler",
-        "enlace": "https://grapheneos.social/@GrapheneOS/116550899908879585",
+        "titulo": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
+        "enlace": "http://www.csl.sri.com/users/neumann/psos.pdf",
         "fuente": "Hacker News",
-        "fecha": "Sun, 10 May 2026 17:54:02 +0000",
+        "fecha": "Mon, 18 May 2026 09:40:51 +0000",
         "categoria": "IA"
       }
     ],
     "SEO": [
       {
-        "titulo": "How We Use AI To Run A 90-Day Growth Audit",
-        "enlace": "https://www.searchenginejournal.com/how-we-use-ai-to-run-a-90-day-growth-audit/572458/",
+        "titulo": "Rethinking Audience Targeting In A Signal-Loss Era (With The R.E.M. Framework) via @sejournal, @SequinsNsearch",
+        "enlace": "https://www.searchenginejournal.com/rethinking-audience-targeting-signal-loss-era-rem-framework/572422/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 11 May 2026 12:00:30 +0000",
+        "fecha": "Mon, 18 May 2026 11:15:22 +0000",
         "categoria": "SEO"
       },
       {
-        "titulo": "I Helped Build Google’s Keyword System. Here’s Why It’s Becoming Obsolete via @sejournal, @siliconvallaeys",
-        "enlace": "https://www.searchenginejournal.com/i-helped-build-googles-keyword-system-heres-why-its-becoming-obsolete/572362/",
+        "titulo": "Anthropic’s Infrastructure Crisis – What It Means for Marketers & SEO Pros via @sejournal, @gregjarboe",
+        "enlace": "https://www.searchenginejournal.com/anthropics-infrastructure-crisis-what-it-means-for-marketers-seo-pros/574258/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 11 May 2026 11:30:56 +0000",
+        "fecha": "Mon, 18 May 2026 09:30:13 +0000",
         "categoria": "SEO"
       },
       {
@@ -51,6 +51,13 @@
     "SEO Local": [],
     "Marketing Digital": [
       {
+        "titulo": "Brand mentions: How to track and measure visibility",
+        "enlace": "https://blog.hubspot.com/marketing/brand-mentions",
+        "fuente": "HubSpot Blog",
+        "fecha": "Mon, 18 May 2026 11:00:05 GMT",
+        "categoria": "Marketing Digital"
+      },
+      {
         "titulo": "6 generative engine optimization benefits every marketer should know",
         "enlace": "https://blog.hubspot.com/marketing/6-generative-engine-optimization-benefits-every-marketer-should-know",
         "fuente": "HubSpot Blog",
@@ -58,10 +65,10 @@
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "Digital Marketing Optimization: 10 Best Strategies to Increase Marketing ROI",
-        "enlace": "https://blog.hubspot.com/marketing/digital-marketing-optimization",
-        "fuente": "HubSpot Blog",
-        "fecha": "Thu, 07 May 2026 11:00:02 GMT",
+        "titulo": "Ubersuggest Keyword Ideas: What the Data Actually Tells You",
+        "enlace": "https://neilpatel.com/blog/keyword-ideas-data-ubersuggest-answer-the-public/",
+        "fuente": "Neil Patel",
+        "fecha": "Wed, 13 May 2026 19:00:00 +0000",
         "categoria": "Marketing Digital"
       },
       {
@@ -69,13 +76,6 @@
         "enlace": "https://neilpatel.com/blog/the-ultimate-google-algorithm-cheat-sheet/",
         "fuente": "Neil Patel",
         "fecha": "Wed, 06 May 2026 19:00:00 +0000",
-        "categoria": "Marketing Digital"
-      },
-      {
-        "titulo": "What Does the TikTok Sale Mean for Advertisers?",
-        "enlace": "https://neilpatel.com/blog/tik-tok-sale-update/",
-        "fuente": "Neil Patel",
-        "fecha": "Tue, 05 May 2026 19:00:00 +0000",
         "categoria": "Marketing Digital"
       }
     ]
