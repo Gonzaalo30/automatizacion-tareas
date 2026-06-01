@@ -1,36 +1,36 @@
 {
-  "fecha_generacion": "2026-05-25T12:27:07.407841",
+  "fecha_generacion": "2026-06-01T14:57:45.628906",
   "dia_ejecucion": "Lunes 9:00 AM",
   "noticias_por_categoria": {
     "IA": [
       {
-        "titulo": "Magnifica Humanitas (Encyclical Letter)",
-        "enlace": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+        "titulo": "NPM packages from RedHat have been compromised",
+        "enlace": "https://github.com/RedHatInsights/javascript-clients/issues/492",
         "fuente": "Hacker News",
-        "fecha": "Mon, 25 May 2026 10:11:29 +0000",
+        "fecha": "Mon, 01 Jun 2026 13:30:21 +0000",
         "categoria": "IA"
       },
       {
-        "titulo": "IBM Spins Off the First Pure-Play Quantum Chip Foundry",
-        "enlace": "https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/",
+        "titulo": "Flipper Zero Zig Template",
+        "enlace": "https://github.com/NishantJoshi00/flipper-template",
         "fuente": "Hacker News",
-        "fecha": "Mon, 25 May 2026 09:43:03 +0000",
+        "fecha": "Mon, 01 Jun 2026 13:20:54 +0000",
         "categoria": "IA"
       }
     ],
     "SEO": [
       {
-        "titulo": "Reddit CEO: LLMs ‘Would Not Exist’ Without Reddit Data via @sejournal, @MattGSouthern",
-        "enlace": "https://www.searchenginejournal.com/reddit-ceo-llms-would-not-exist-without-reddit-data/575786/",
+        "titulo": "EntityMap: The Open Standard That Gives AI Systems A Structured View Of Your Business via @sejournal, @Dixon_Jones",
+        "enlace": "https://www.searchenginejournal.com/entitymap-the-open-standard-that-gives-ai-systems-a-structured-view-of-your-business/576146/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 25 May 2026 12:12:14 +0000",
+        "fecha": "Mon, 01 Jun 2026 13:00:35 +0000",
         "categoria": "SEO"
       },
       {
-        "titulo": "Pichai Says Google Is ‘A Bit Behind’ On Agentic Coding via @sejournal, @MattGSouthern",
-        "enlace": "https://www.searchenginejournal.com/pichai-says-google-is-a-bit-behind-on-agentic-coding/575781/",
+        "titulo": "Google CEO Sundar Pichai Downplays Google Zero Concerns via @sejournal, @martinibuster",
+        "enlace": "https://www.searchenginejournal.com/google-ceo-sundar-pichai-downplays-google-zero-concerns/577489/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 25 May 2026 11:45:14 +0000",
+        "fecha": "Mon, 01 Jun 2026 11:29:10 +0000",
         "categoria": "SEO"
       },
       {
@@ -51,17 +51,24 @@
     "SEO Local": [],
     "Marketing Digital": [
       {
-        "titulo": "How to optimize for AI overviews (AIOs): A complete 2026 playbook",
-        "enlace": "https://blog.hubspot.com/marketing/optimize-for-ai-overviews",
+        "titulo": "The AI Perception-Reality Gap",
+        "enlace": "https://blog.hubspot.com/marketing/ai-perception-reality-gap",
         "fuente": "HubSpot Blog",
-        "fecha": "Mon, 25 May 2026 11:00:02 GMT",
+        "fecha": "Mon, 01 Jun 2026 14:00:14 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "How to rank in AI Overviews on Google and beyond",
-        "enlace": "https://blog.hubspot.com/marketing/how-to-rank-in-ai-overviews",
+        "titulo": "6 top answer engine optimization benefits for growth and enterprise marketers",
+        "enlace": "https://blog.hubspot.com/marketing/benefits-of-answer-engine-optimization",
         "fuente": "HubSpot Blog",
-        "fecha": "Mon, 25 May 2026 11:00:02 GMT",
+        "fecha": "Mon, 01 Jun 2026 11:00:04 GMT",
+        "categoria": "Marketing Digital"
+      },
+      {
+        "titulo": "How to Create and Optimize Your Robots.txt File",
+        "enlace": "https://neilpatel.com/blog/robots-txt/",
+        "fuente": "Neil Patel",
+        "fecha": "Tue, 26 May 2026 19:00:00 +0000",
         "categoria": "Marketing Digital"
       },
       {
@@ -69,13 +76,6 @@
         "enlace": "https://neilpatel.com/blog/ai-powered-lead-generation/",
         "fuente": "Neil Patel",
         "fecha": "Fri, 22 May 2026 19:00:00 +0000",
-        "categoria": "Marketing Digital"
-      },
-      {
-        "titulo": "Key Updates from Google I/O and Marketing Live 2026",
-        "enlace": "https://neilpatel.com/blog/google-io-2026/",
-        "fuente": "Neil Patel",
-        "fecha": "Thu, 21 May 2026 13:45:17 +0000",
         "categoria": "Marketing Digital"
       }
     ]
