@@ -1,36 +1,36 @@
 {
-  "fecha_generacion": "2026-06-01T14:57:45.628906",
+  "fecha_generacion": "2026-06-08T13:04:52.810158",
   "dia_ejecucion": "Lunes 9:00 AM",
   "noticias_por_categoria": {
     "IA": [
       {
-        "titulo": "NPM packages from RedHat have been compromised",
-        "enlace": "https://github.com/RedHatInsights/javascript-clients/issues/492",
+        "titulo": "The Cypherpunk Library",
+        "enlace": "https://www.cypherpunkbooks.com",
         "fuente": "Hacker News",
-        "fecha": "Mon, 01 Jun 2026 13:30:21 +0000",
+        "fecha": "Mon, 08 Jun 2026 08:32:52 +0000",
         "categoria": "IA"
       },
       {
-        "titulo": "Flipper Zero Zig Template",
-        "enlace": "https://github.com/NishantJoshi00/flipper-template",
+        "titulo": "Dopamine Fracking",
+        "enlace": "https://igerman.cc/blog/dopamine-fracking/",
         "fuente": "Hacker News",
-        "fecha": "Mon, 01 Jun 2026 13:20:54 +0000",
+        "fecha": "Mon, 08 Jun 2026 02:42:24 +0000",
         "categoria": "IA"
       }
     ],
     "SEO": [
       {
-        "titulo": "EntityMap: The Open Standard That Gives AI Systems A Structured View Of Your Business via @sejournal, @Dixon_Jones",
-        "enlace": "https://www.searchenginejournal.com/entitymap-the-open-standard-that-gives-ai-systems-a-structured-view-of-your-business/576146/",
+        "titulo": "Google Ask Maps Updates – How They Impact Your Business Profile via @sejournal, @MattGSouthern",
+        "enlace": "https://www.searchenginejournal.com/google-ask-maps-updates-how-they-impact-your-business-profile/577542/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 01 Jun 2026 13:00:35 +0000",
+        "fecha": "Mon, 08 Jun 2026 12:01:18 +0000",
         "categoria": "SEO"
       },
       {
-        "titulo": "Google CEO Sundar Pichai Downplays Google Zero Concerns via @sejournal, @martinibuster",
-        "enlace": "https://www.searchenginejournal.com/google-ceo-sundar-pichai-downplays-google-zero-concerns/577489/",
+        "titulo": "AI Visibility Used To Mean Citation. Late June 2026, It Starts To Mean Transaction via @sejournal, @slobodanmanic",
+        "enlace": "https://www.searchenginejournal.com/ai-visibility-used-to-mean-citation-late-june-2026-it-starts-to-mean-transaction/574698/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 01 Jun 2026 11:29:10 +0000",
+        "fecha": "Mon, 08 Jun 2026 10:03:33 +0000",
         "categoria": "SEO"
       },
       {
@@ -51,17 +51,24 @@
     "SEO Local": [],
     "Marketing Digital": [
       {
-        "titulo": "The AI Perception-Reality Gap",
-        "enlace": "https://blog.hubspot.com/marketing/ai-perception-reality-gap",
+        "titulo": "Keyword research for AEO: A guide for winning answer engine traffic in 2026",
+        "enlace": "https://blog.hubspot.com/marketing/aeo-keyword-research",
         "fuente": "HubSpot Blog",
-        "fecha": "Mon, 01 Jun 2026 14:00:14 GMT",
+        "fecha": "Mon, 08 Jun 2026 11:00:03 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "6 top answer engine optimization benefits for growth and enterprise marketers",
-        "enlace": "https://blog.hubspot.com/marketing/benefits-of-answer-engine-optimization",
+        "titulo": "How to use your CRM for smarter email marketing campaigns",
+        "enlace": "https://blog.hubspot.com/marketing/crm-email-marketing",
         "fuente": "HubSpot Blog",
-        "fecha": "Mon, 01 Jun 2026 11:00:04 GMT",
+        "fecha": "Mon, 08 Jun 2026 11:00:02 GMT",
+        "categoria": "Marketing Digital"
+      },
+      {
+        "titulo": "Referral Traffic Is Declining for Smaller Publishers: What This Means and How to React",
+        "enlace": "https://neilpatel.com/blog/referral-traffic-decline-publishers/",
+        "fuente": "Neil Patel",
+        "fecha": "Tue, 02 Jun 2026 16:42:04 +0000",
         "categoria": "Marketing Digital"
       },
       {
@@ -69,13 +76,6 @@
         "enlace": "https://neilpatel.com/blog/robots-txt/",
         "fuente": "Neil Patel",
         "fecha": "Tue, 26 May 2026 19:00:00 +0000",
-        "categoria": "Marketing Digital"
-      },
-      {
-        "titulo": "AI-Powered Lead Gen: The New Way Multi-Location, Franchises, and Global Companies Scale",
-        "enlace": "https://neilpatel.com/blog/ai-powered-lead-generation/",
-        "fuente": "Neil Patel",
-        "fecha": "Fri, 22 May 2026 19:00:00 +0000",
         "categoria": "Marketing Digital"
       }
     ]
