@@ -1,36 +1,36 @@
 {
-  "fecha_generacion": "2026-06-08T13:04:52.810158",
+  "fecha_generacion": "2026-06-15T15:12:02.439496",
   "dia_ejecucion": "Lunes 9:00 AM",
   "noticias_por_categoria": {
     "IA": [
       {
-        "titulo": "The Cypherpunk Library",
-        "enlace": "https://www.cypherpunkbooks.com",
+        "titulo": "CrankGPT",
+        "enlace": "https://crankgpt.com",
         "fuente": "Hacker News",
-        "fecha": "Mon, 08 Jun 2026 08:32:52 +0000",
+        "fecha": "Mon, 15 Jun 2026 13:20:13 +0000",
         "categoria": "IA"
       },
       {
-        "titulo": "Dopamine Fracking",
-        "enlace": "https://igerman.cc/blog/dopamine-fracking/",
+        "titulo": "Salesforce to Acquire Fin (formerly Intercom) for $3.6BN",
+        "enlace": "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL",
         "fuente": "Hacker News",
-        "fecha": "Mon, 08 Jun 2026 02:42:24 +0000",
+        "fecha": "Mon, 15 Jun 2026 12:08:59 +0000",
         "categoria": "IA"
       }
     ],
     "SEO": [
       {
-        "titulo": "Google Ask Maps Updates – How They Impact Your Business Profile via @sejournal, @MattGSouthern",
-        "enlace": "https://www.searchenginejournal.com/google-ask-maps-updates-how-they-impact-your-business-profile/577542/",
+        "titulo": "The Review Gap: Finding Client Opportunities In Competitor Feedback",
+        "enlace": "https://www.searchenginejournal.com/the-review-gap-finding-client-opportunities-in-competitor-feedback/576052/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 08 Jun 2026 12:01:18 +0000",
+        "fecha": "Mon, 15 Jun 2026 13:30:06 +0000",
         "categoria": "SEO"
       },
       {
-        "titulo": "AI Visibility Used To Mean Citation. Late June 2026, It Starts To Mean Transaction via @sejournal, @slobodanmanic",
-        "enlace": "https://www.searchenginejournal.com/ai-visibility-used-to-mean-citation-late-june-2026-it-starts-to-mean-transaction/574698/",
+        "titulo": "Agentic Commerce And The New Rules Of Google Ads via @sejournal, @tonyadam",
+        "enlace": "https://www.searchenginejournal.com/agentic-commerce-and-the-new-rules-of-google-ads/577406/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 08 Jun 2026 10:03:33 +0000",
+        "fecha": "Mon, 15 Jun 2026 11:30:02 +0000",
         "categoria": "SEO"
       },
       {
@@ -51,31 +51,31 @@
     "SEO Local": [],
     "Marketing Digital": [
       {
-        "titulo": "Keyword research for AEO: A guide for winning answer engine traffic in 2026",
-        "enlace": "https://blog.hubspot.com/marketing/aeo-keyword-research",
+        "titulo": "How to get indexed by ChatGPT [2026]",
+        "enlace": "https://blog.hubspot.com/marketing/how-to-get-indexed-by-chatgpt",
         "fuente": "HubSpot Blog",
-        "fecha": "Mon, 08 Jun 2026 11:00:03 GMT",
+        "fecha": "Thu, 11 Jun 2026 11:00:02 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "How to use your CRM for smarter email marketing campaigns",
-        "enlace": "https://blog.hubspot.com/marketing/crm-email-marketing",
+        "titulo": "FAQs for AEO: How to structure answers that rank in answer engines",
+        "enlace": "https://blog.hubspot.com/marketing/faqs-for-aeo",
         "fuente": "HubSpot Blog",
-        "fecha": "Mon, 08 Jun 2026 11:00:02 GMT",
+        "fecha": "Wed, 10 Jun 2026 11:00:05 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "Referral Traffic Is Declining for Smaller Publishers: What This Means and How to React",
-        "enlace": "https://neilpatel.com/blog/referral-traffic-decline-publishers/",
+        "titulo": "Why TikTok Is Expanding Its Premium Ads Push and What That Means for You",
+        "enlace": "https://neilpatel.com/blog/tiktok-premium-ads/",
         "fuente": "Neil Patel",
-        "fecha": "Tue, 02 Jun 2026 16:42:04 +0000",
+        "fecha": "Fri, 12 Jun 2026 19:00:00 +0000",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "How to Create and Optimize Your Robots.txt File",
-        "enlace": "https://neilpatel.com/blog/robots-txt/",
+        "titulo": "Using AI to Support and Defend Your Brand",
+        "enlace": "https://neilpatel.com/blog/ai-brand-reputation-management/",
         "fuente": "Neil Patel",
-        "fecha": "Tue, 26 May 2026 19:00:00 +0000",
+        "fecha": "Wed, 10 Jun 2026 17:30:27 +0000",
         "categoria": "Marketing Digital"
       }
     ]
