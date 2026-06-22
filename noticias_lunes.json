@@ -1,36 +1,36 @@
 {
-  "fecha_generacion": "2026-06-15T15:12:02.439496",
+  "fecha_generacion": "2026-06-22T14:34:30.024692",
   "dia_ejecucion": "Lunes 9:00 AM",
   "noticias_por_categoria": {
     "IA": [
       {
-        "titulo": "CrankGPT",
-        "enlace": "https://crankgpt.com",
+        "titulo": "Pledging Another $400k to the Zig Software Foundation",
+        "enlace": "https://mitchellh.com/writing/zig-donation-2026",
         "fuente": "Hacker News",
-        "fecha": "Mon, 15 Jun 2026 13:20:13 +0000",
+        "fecha": "Mon, 22 Jun 2026 13:43:01 +0000",
         "categoria": "IA"
       },
       {
-        "titulo": "Salesforce to Acquire Fin (formerly Intercom) for $3.6BN",
-        "enlace": "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL",
+        "titulo": "Never Give Them Your Face",
+        "enlace": "https://nevergivethemyourface.com/",
         "fuente": "Hacker News",
-        "fecha": "Mon, 15 Jun 2026 12:08:59 +0000",
+        "fecha": "Mon, 22 Jun 2026 13:45:48 +0000",
         "categoria": "IA"
       }
     ],
     "SEO": [
       {
-        "titulo": "The Review Gap: Finding Client Opportunities In Competitor Feedback",
-        "enlace": "https://www.searchenginejournal.com/the-review-gap-finding-client-opportunities-in-competitor-feedback/576052/",
+        "titulo": "A German Court Made Google Liable For What Its AI Says About You via @sejournal, @slobodanmanic",
+        "enlace": "https://www.searchenginejournal.com/a-german-court-made-google-liable-for-what-its-ai-says-about-you/579295/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 15 Jun 2026 13:30:06 +0000",
+        "fecha": "Mon, 22 Jun 2026 13:00:47 +0000",
         "categoria": "SEO"
       },
       {
-        "titulo": "Agentic Commerce And The New Rules Of Google Ads via @sejournal, @tonyadam",
-        "enlace": "https://www.searchenginejournal.com/agentic-commerce-and-the-new-rules-of-google-ads/577406/",
+        "titulo": "Google Says X-Frame-Options Matters For SEO via @sejournal, @martinibuster",
+        "enlace": "https://www.searchenginejournal.com/google-says-x-frame-options-matters-for-seo/580126/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 15 Jun 2026 11:30:02 +0000",
+        "fecha": "Mon, 22 Jun 2026 11:35:18 +0000",
         "categoria": "SEO"
       },
       {
@@ -51,6 +51,13 @@
     "SEO Local": [],
     "Marketing Digital": [
       {
+        "titulo": "How to rank in AI search results: Expert best practices",
+        "enlace": "https://blog.hubspot.com/marketing/ai-search-ranking",
+        "fuente": "HubSpot Blog",
+        "fecha": "Thu, 18 Jun 2026 11:00:03 GMT",
+        "categoria": "Marketing Digital"
+      },
+      {
         "titulo": "How to get indexed by ChatGPT [2026]",
         "enlace": "https://blog.hubspot.com/marketing/how-to-get-indexed-by-chatgpt",
         "fuente": "HubSpot Blog",
@@ -58,24 +65,17 @@
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "FAQs for AEO: How to structure answers that rank in answer engines",
-        "enlace": "https://blog.hubspot.com/marketing/faqs-for-aeo",
-        "fuente": "HubSpot Blog",
-        "fecha": "Wed, 10 Jun 2026 11:00:05 GMT",
+        "titulo": "How We Rebuilt AI Visibility Measurement From The Ground Up",
+        "enlace": "https://neilpatel.com/blog/how-to-monitor-ai-search-visibility/",
+        "fuente": "Neil Patel",
+        "fecha": "Fri, 19 Jun 2026 19:00:00 +0000",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "Why TikTok Is Expanding Its Premium Ads Push and What That Means for You",
-        "enlace": "https://neilpatel.com/blog/tiktok-premium-ads/",
+        "titulo": "AI Brand Visibility: You’re Tracking It Wrong",
+        "enlace": "https://neilpatel.com/blog/ai-brand-visibility-tracking/",
         "fuente": "Neil Patel",
-        "fecha": "Fri, 12 Jun 2026 19:00:00 +0000",
-        "categoria": "Marketing Digital"
-      },
-      {
-        "titulo": "Using AI to Support and Defend Your Brand",
-        "enlace": "https://neilpatel.com/blog/ai-brand-reputation-management/",
-        "fuente": "Neil Patel",
-        "fecha": "Wed, 10 Jun 2026 17:30:27 +0000",
+        "fecha": "Wed, 17 Jun 2026 19:00:00 +0000",
         "categoria": "Marketing Digital"
       }
     ]
