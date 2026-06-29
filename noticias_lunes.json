@@ -1,36 +1,36 @@
 {
-  "fecha_generacion": "2026-06-22T14:34:30.024692",
+  "fecha_generacion": "2026-06-29T13:04:26.130325",
   "dia_ejecucion": "Lunes 9:00 AM",
   "noticias_por_categoria": {
     "IA": [
       {
-        "titulo": "Pledging Another $400k to the Zig Software Foundation",
-        "enlace": "https://mitchellh.com/writing/zig-donation-2026",
+        "titulo": "Sandia National Labs SA3000 8085 CPU",
+        "enlace": "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/",
         "fuente": "Hacker News",
-        "fecha": "Mon, 22 Jun 2026 13:43:01 +0000",
+        "fecha": "Mon, 29 Jun 2026 10:20:25 +0000",
         "categoria": "IA"
       },
       {
-        "titulo": "Never Give Them Your Face",
-        "enlace": "https://nevergivethemyourface.com/",
+        "titulo": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
+        "enlace": "https://danunparsed.com/p/hackerrank-open-source-ats",
         "fuente": "Hacker News",
-        "fecha": "Mon, 22 Jun 2026 13:45:48 +0000",
+        "fecha": "Mon, 29 Jun 2026 01:44:40 +0000",
         "categoria": "IA"
       }
     ],
     "SEO": [
       {
-        "titulo": "A German Court Made Google Liable For What Its AI Says About You via @sejournal, @slobodanmanic",
-        "enlace": "https://www.searchenginejournal.com/a-german-court-made-google-liable-for-what-its-ai-says-about-you/579295/",
+        "titulo": "Why Internal Links Quietly Decay & How To Reclaim The Equity You’re Losing",
+        "enlace": "https://www.searchenginejournal.com/why-internal-links-quietly-decay-how-to-reclaim-the-equity-youre-losing/579005/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 22 Jun 2026 13:00:47 +0000",
+        "fecha": "Mon, 29 Jun 2026 11:00:27 +0000",
         "categoria": "SEO"
       },
       {
-        "titulo": "Google Says X-Frame-Options Matters For SEO via @sejournal, @martinibuster",
-        "enlace": "https://www.searchenginejournal.com/google-says-x-frame-options-matters-for-seo/580126/",
+        "titulo": "Google: Meta Descriptions Not Required For SEO. But They’re Worthwhile. via @sejournal, @martinibuster",
+        "enlace": "https://www.searchenginejournal.com/google-meta-descriptions-not-required-for-seo-but-theyre-worthwhile/580694/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 22 Jun 2026 11:35:18 +0000",
+        "fecha": "Mon, 29 Jun 2026 08:57:26 +0000",
         "categoria": "SEO"
       },
       {
@@ -51,31 +51,31 @@
     "SEO Local": [],
     "Marketing Digital": [
       {
-        "titulo": "How to rank in AI search results: Expert best practices",
-        "enlace": "https://blog.hubspot.com/marketing/ai-search-ranking",
+        "titulo": "What is AI search optimization? (& why marketers should care)",
+        "enlace": "https://blog.hubspot.com/marketing/what-is-ai-search-optimization",
         "fuente": "HubSpot Blog",
-        "fecha": "Thu, 18 Jun 2026 11:00:03 GMT",
+        "fecha": "Mon, 29 Jun 2026 11:00:03 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "How to get indexed by ChatGPT [2026]",
-        "enlace": "https://blog.hubspot.com/marketing/how-to-get-indexed-by-chatgpt",
+        "titulo": "Scrunch vs Semrush: AI visibility or traditional SEO?",
+        "enlace": "https://blog.hubspot.com/marketing/scrunch-vs-semrush",
         "fuente": "HubSpot Blog",
-        "fecha": "Thu, 11 Jun 2026 11:00:02 GMT",
+        "fecha": "Mon, 29 Jun 2026 11:00:02 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "How We Rebuilt AI Visibility Measurement From The Ground Up",
-        "enlace": "https://neilpatel.com/blog/how-to-monitor-ai-search-visibility/",
+        "titulo": "The Ultimate  Content Marketing Guide in 2026",
+        "enlace": "https://neilpatel.com/blog/guide-to-content-marketing/",
         "fuente": "Neil Patel",
-        "fecha": "Fri, 19 Jun 2026 19:00:00 +0000",
+        "fecha": "Fri, 26 Jun 2026 19:00:00 +0000",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "AI Brand Visibility: You’re Tracking It Wrong",
-        "enlace": "https://neilpatel.com/blog/ai-brand-visibility-tracking/",
+        "titulo": "Best Backlink Analysis Tools: Compare Free and Paid Options",
+        "enlace": "https://neilpatel.com/blog/backlink-analysis-tools/",
         "fuente": "Neil Patel",
-        "fecha": "Wed, 17 Jun 2026 19:00:00 +0000",
+        "fecha": "Wed, 24 Jun 2026 19:00:00 +0000",
         "categoria": "Marketing Digital"
       }
     ]
