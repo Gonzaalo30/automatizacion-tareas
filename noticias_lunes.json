@@ -1,36 +1,36 @@
 {
-  "fecha_generacion": "2026-06-29T13:04:26.130325",
+  "fecha_generacion": "2026-07-06T12:43:20.856804",
   "dia_ejecucion": "Lunes 9:00 AM",
   "noticias_por_categoria": {
     "IA": [
       {
-        "titulo": "Sandia National Labs SA3000 8085 CPU",
-        "enlace": "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/",
+        "titulo": "Real-time map of Great Britain's rail network",
+        "enlace": "https://www.map.signalbox.io",
         "fuente": "Hacker News",
-        "fecha": "Mon, 29 Jun 2026 10:20:25 +0000",
+        "fecha": "Mon, 06 Jul 2026 09:38:36 +0000",
         "categoria": "IA"
       },
       {
-        "titulo": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
-        "enlace": "https://danunparsed.com/p/hackerrank-open-source-ats",
+        "titulo": "Road to Elm 1.0",
+        "enlace": "https://elm-lang.org/news/faster-builds",
         "fuente": "Hacker News",
-        "fecha": "Mon, 29 Jun 2026 01:44:40 +0000",
+        "fecha": "Mon, 06 Jul 2026 11:47:37 +0000",
         "categoria": "IA"
       }
     ],
     "SEO": [
       {
-        "titulo": "Why Internal Links Quietly Decay & How To Reclaim The Equity You’re Losing",
-        "enlace": "https://www.searchenginejournal.com/why-internal-links-quietly-decay-how-to-reclaim-the-equity-youre-losing/579005/",
+        "titulo": "AI Content Didn’t Stop Working, Your Metrics Did via @sejournal, @MattGSouthern",
+        "enlace": "https://www.searchenginejournal.com/ai-content-didnt-stop-working-your-metrics-did/580976/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 29 Jun 2026 11:00:27 +0000",
+        "fecha": "Mon, 06 Jul 2026 11:30:07 +0000",
         "categoria": "SEO"
       },
       {
-        "titulo": "Google: Meta Descriptions Not Required For SEO. But They’re Worthwhile. via @sejournal, @martinibuster",
-        "enlace": "https://www.searchenginejournal.com/google-meta-descriptions-not-required-for-seo-but-theyre-worthwhile/580694/",
+        "titulo": "Google Answers Question About LLMs-Author.txt For SEO via @sejournal, @martinibuster",
+        "enlace": "https://www.searchenginejournal.com/google-answers-question-about-llms-author-txt-for-seo/581547/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 29 Jun 2026 08:57:26 +0000",
+        "fecha": "Mon, 06 Jul 2026 10:05:35 +0000",
         "categoria": "SEO"
       },
       {
@@ -51,31 +51,31 @@
     "SEO Local": [],
     "Marketing Digital": [
       {
-        "titulo": "What is AI search optimization? (& why marketers should care)",
-        "enlace": "https://blog.hubspot.com/marketing/what-is-ai-search-optimization",
+        "titulo": "What are semantic keywords? Here's how to find & use them",
+        "enlace": "https://blog.hubspot.com/marketing/semantic-keywords",
         "fuente": "HubSpot Blog",
-        "fecha": "Mon, 29 Jun 2026 11:00:03 GMT",
+        "fecha": "Wed, 01 Jul 2026 11:00:03 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "Scrunch vs Semrush: AI visibility or traditional SEO?",
-        "enlace": "https://blog.hubspot.com/marketing/scrunch-vs-semrush",
+        "titulo": "How to track your brand’s presence in AI search",
+        "enlace": "https://blog.hubspot.com/marketing/ai-search-presence",
         "fuente": "HubSpot Blog",
-        "fecha": "Mon, 29 Jun 2026 11:00:02 GMT",
+        "fecha": "Tue, 30 Jun 2026 11:00:03 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "The Ultimate  Content Marketing Guide in 2026",
-        "enlace": "https://neilpatel.com/blog/guide-to-content-marketing/",
+        "titulo": "How AI Impacts Email Personalization in 2026",
+        "enlace": "https://neilpatel.com/blog/ai-email-personalization/",
         "fuente": "Neil Patel",
-        "fecha": "Fri, 26 Jun 2026 19:00:00 +0000",
+        "fecha": "Thu, 02 Jul 2026 16:00:00 +0000",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "Best Backlink Analysis Tools: Compare Free and Paid Options",
-        "enlace": "https://neilpatel.com/blog/backlink-analysis-tools/",
+        "titulo": "How to Analyze Your Backlinks With the Ubersuggest Backlink Checker",
+        "enlace": "https://neilpatel.com/blog/free-backlink-tool/",
         "fuente": "Neil Patel",
-        "fecha": "Wed, 24 Jun 2026 19:00:00 +0000",
+        "fecha": "Wed, 01 Jul 2026 16:00:00 +0000",
         "categoria": "Marketing Digital"
       }
     ]
