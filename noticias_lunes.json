@@ -1,36 +1,36 @@
 {
-  "fecha_generacion": "2026-07-06T12:43:20.856804",
+  "fecha_generacion": "2026-07-13T11:57:55.878464",
   "dia_ejecucion": "Lunes 9:00 AM",
   "noticias_por_categoria": {
     "IA": [
       {
-        "titulo": "Real-time map of Great Britain's rail network",
-        "enlace": "https://www.map.signalbox.io",
+        "titulo": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+        "enlace": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
         "fuente": "Hacker News",
-        "fecha": "Mon, 06 Jul 2026 09:38:36 +0000",
+        "fecha": "Mon, 13 Jul 2026 08:39:39 +0000",
         "categoria": "IA"
       },
       {
-        "titulo": "Road to Elm 1.0",
-        "enlace": "https://elm-lang.org/news/faster-builds",
+        "titulo": "A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese",
+        "enlace": "https://jivx.com/densha",
         "fuente": "Hacker News",
-        "fecha": "Mon, 06 Jul 2026 11:47:37 +0000",
+        "fecha": "Mon, 13 Jul 2026 11:18:30 +0000",
         "categoria": "IA"
       }
     ],
     "SEO": [
       {
-        "titulo": "AI Content Didn’t Stop Working, Your Metrics Did via @sejournal, @MattGSouthern",
-        "enlace": "https://www.searchenginejournal.com/ai-content-didnt-stop-working-your-metrics-did/580976/",
+        "titulo": "Only 28% Of Americans Trust AI Search – And That Gap Is Your SEO Opening via @sejournal, @gregjarboe",
+        "enlace": "https://www.searchenginejournal.com/only-28-of-americans-trust-ai-search-and-that-gap-is-your-seo-opening/581913/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 06 Jul 2026 11:30:07 +0000",
+        "fecha": "Mon, 13 Jul 2026 11:30:27 +0000",
         "categoria": "SEO"
       },
       {
-        "titulo": "Google Answers Question About LLMs-Author.txt For SEO via @sejournal, @martinibuster",
-        "enlace": "https://www.searchenginejournal.com/google-answers-question-about-llms-author-txt-for-seo/581547/",
+        "titulo": "AI Agent Standards: What Do We Need To Know? via @sejournal, @chrisgreenseo",
+        "enlace": "https://www.searchenginejournal.com/ai-agent-standards-what-do-we-need-to-know/581763/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 06 Jul 2026 10:05:35 +0000",
+        "fecha": "Mon, 13 Jul 2026 09:30:08 +0000",
         "categoria": "SEO"
       },
       {
@@ -51,6 +51,13 @@
     "SEO Local": [],
     "Marketing Digital": [
       {
+        "titulo": "Growth experimentation: A guide for growing marketing teams",
+        "enlace": "https://blog.hubspot.com/marketing/growth-experimentation",
+        "fuente": "HubSpot Blog",
+        "fecha": "Thu, 09 Jul 2026 17:00:01 GMT",
+        "categoria": "Marketing Digital"
+      },
+      {
         "titulo": "What are semantic keywords? Here's how to find & use them",
         "enlace": "https://blog.hubspot.com/marketing/semantic-keywords",
         "fuente": "HubSpot Blog",
@@ -58,24 +65,17 @@
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "How to track your brand’s presence in AI search",
-        "enlace": "https://blog.hubspot.com/marketing/ai-search-presence",
-        "fuente": "HubSpot Blog",
-        "fecha": "Tue, 30 Jun 2026 11:00:03 GMT",
+        "titulo": "PPC / SEM Tips for Franchises: A Guide for Google Ads",
+        "enlace": "https://neilpatel.com/blog/franchise-ppc/",
+        "fuente": "Neil Patel",
+        "fecha": "Fri, 10 Jul 2026 16:00:00 +0000",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "How AI Impacts Email Personalization in 2026",
-        "enlace": "https://neilpatel.com/blog/ai-email-personalization/",
+        "titulo": "Best Practices for Writing SEO Title Tags",
+        "enlace": "https://neilpatel.com/blog/title-tags-seo/",
         "fuente": "Neil Patel",
-        "fecha": "Thu, 02 Jul 2026 16:00:00 +0000",
-        "categoria": "Marketing Digital"
-      },
-      {
-        "titulo": "How to Analyze Your Backlinks With the Ubersuggest Backlink Checker",
-        "enlace": "https://neilpatel.com/blog/free-backlink-tool/",
-        "fuente": "Neil Patel",
-        "fecha": "Wed, 01 Jul 2026 16:00:00 +0000",
+        "fecha": "Wed, 08 Jul 2026 16:00:00 +0000",
         "categoria": "Marketing Digital"
       }
     ]
