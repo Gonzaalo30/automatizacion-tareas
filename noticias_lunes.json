@@ -1,36 +1,36 @@
 {
-  "fecha_generacion": "2026-07-27T12:18:20.666381",
+  "fecha_generacion": "2026-08-03T12:18:48.617284",
   "dia_ejecucion": "Lunes 9:00 AM",
   "noticias_por_categoria": {
     "IA": [
       {
-        "titulo": "Kimi-K3 Releases on HuggingFace 7/27",
-        "enlace": "https://huggingface.co/moonshotai/Kimi-K3",
+        "titulo": "Critical CVE issued for hallucinated SQLite vulnerability",
+        "enlace": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
         "fuente": "Hacker News",
-        "fecha": "Mon, 27 Jul 2026 06:18:10 +0000",
+        "fecha": "Mon, 03 Aug 2026 11:28:54 +0000",
         "categoria": "IA"
       },
       {
-        "titulo": "How is the Bun Rewrite in Rust going?",
-        "enlace": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+        "titulo": "Don't be a meat proxy",
+        "enlace": "https://gruhn.me/blog/2026-08-03/",
         "fuente": "Hacker News",
-        "fecha": "Mon, 27 Jul 2026 11:12:26 +0000",
+        "fecha": "Mon, 03 Aug 2026 06:28:01 +0000",
         "categoria": "IA"
       }
     ],
     "SEO": [
       {
-        "titulo": "Google Ads’ Target-Based Bidding Update For Ecommerce via @sejournal, @tonyadam",
-        "enlace": "https://www.searchenginejournal.com/google-ads-target-based-bidding-update-for-ecommerce/581801/",
+        "titulo": "Google’s AI Image Generation In Google Earth Literally Became Disastrous via @sejournal, @martinibuster",
+        "enlace": "https://www.searchenginejournal.com/googles-ai-image-generation-in-google-earth-literally-became-disastrous/584536/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 27 Jul 2026 12:00:35 +0000",
+        "fecha": "Mon, 03 Aug 2026 12:01:02 +0000",
         "categoria": "SEO"
       },
       {
-        "titulo": "Google May Be Penalizing AI-Generated Content As Thin Content via @sejournal, @martinibuster",
-        "enlace": "https://www.searchenginejournal.com/google-may-be-penalizing-ai-generated-content-as-thin-content/583773/",
+        "titulo": "Reviews, Reputation & Listings: The Local Signals AI Now Reads via @sejournal, @MattGSouthern",
+        "enlace": "https://www.searchenginejournal.com/reviews-reputation-listings-the-local-signals-ai-now-reads/583795/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 27 Jul 2026 11:49:14 +0000",
+        "fecha": "Mon, 03 Aug 2026 12:00:26 +0000",
         "categoria": "SEO"
       },
       {
@@ -51,31 +51,31 @@
     "SEO Local": [],
     "Marketing Digital": [
       {
-        "titulo": "Which SEO tools are worth it for small businesses?",
-        "enlace": "https://blog.hubspot.com/marketing/seo-tools-for-small-business",
+        "titulo": "HubSpot AEO vs. Otterly: Platform or standalone tool?",
+        "enlace": "https://blog.hubspot.com/marketing/hubspot-vs-otterly",
         "fuente": "HubSpot Blog",
-        "fecha": "Fri, 24 Jul 2026 11:00:03 GMT",
+        "fecha": "Thu, 30 Jul 2026 11:00:02 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "Scrunch vs Ahrefs: AI visibility tracking comparison",
-        "enlace": "https://blog.hubspot.com/marketing/scrunch-vs-ahrefs",
+        "titulo": "Profound vs. Semrush AEO: What each tool actually does",
+        "enlace": "https://blog.hubspot.com/marketing/profound-vs-semrush",
         "fuente": "HubSpot Blog",
-        "fecha": "Thu, 23 Jul 2026 11:00:03 GMT",
+        "fecha": "Thu, 30 Jul 2026 00:00:00 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "Ubersuggest Is Now Inside ChatGPT. Here’s What It Does",
-        "enlace": "https://neilpatel.com/blog/ubersuggest-chatgpt-app-guide/",
+        "titulo": "How to Get the Most Out of the New AnswerThePublic (2026 Guide)",
+        "enlace": "https://neilpatel.com/blog/how-to-use-new-answerthepublic-guide/",
         "fuente": "Neil Patel",
-        "fecha": "Fri, 24 Jul 2026 16:00:00 +0000",
+        "fecha": "Fri, 31 Jul 2026 16:00:00 +0000",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "Google Enhances AI Link Attribution: What It Means for SEO",
-        "enlace": "https://neilpatel.com/blog/google-ai-link-attribution/",
+        "titulo": "TikTok Gives Creators More Control Over Keyword Metadata: What It Means for Social Search",
+        "enlace": "https://neilpatel.com/blog/tiktok-keyword-metadata/",
         "fuente": "Neil Patel",
-        "fecha": "Wed, 22 Jul 2026 16:00:00 +0000",
+        "fecha": "Wed, 29 Jul 2026 16:00:00 +0000",
         "categoria": "Marketing Digital"
       }
     ]
