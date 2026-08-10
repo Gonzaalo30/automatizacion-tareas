@@ -1,36 +1,36 @@
 {
-  "fecha_generacion": "2026-08-03T12:18:48.617284",
+  "fecha_generacion": "2026-08-10T10:13:15.293665",
   "dia_ejecucion": "Lunes 9:00 AM",
   "noticias_por_categoria": {
     "IA": [
       {
-        "titulo": "Critical CVE issued for hallucinated SQLite vulnerability",
-        "enlace": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+        "titulo": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+        "enlace": "https://www.docker.com/products/docker-sandboxes/",
         "fuente": "Hacker News",
-        "fecha": "Mon, 03 Aug 2026 11:28:54 +0000",
+        "fecha": "Mon, 10 Aug 2026 06:02:38 +0000",
         "categoria": "IA"
       },
       {
-        "titulo": "Don't be a meat proxy",
-        "enlace": "https://gruhn.me/blog/2026-08-03/",
+        "titulo": "What Happened to HackerOne?",
+        "enlace": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
         "fuente": "Hacker News",
-        "fecha": "Mon, 03 Aug 2026 06:28:01 +0000",
+        "fecha": "Mon, 10 Aug 2026 02:23:17 +0000",
         "categoria": "IA"
       }
     ],
     "SEO": [
       {
-        "titulo": "Google’s AI Image Generation In Google Earth Literally Became Disastrous via @sejournal, @martinibuster",
-        "enlace": "https://www.searchenginejournal.com/googles-ai-image-generation-in-google-earth-literally-became-disastrous/584536/",
+        "titulo": "How To Remove Negative Content From Google Before AI Answers Cite It via @sejournal, @EraseDotCom",
+        "enlace": "https://www.searchenginejournal.com/how-to-remove-negative-content-from-google-before-ai-answers-cite-it-spa/582989/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 03 Aug 2026 12:01:02 +0000",
+        "fecha": "Mon, 10 Aug 2026 05:00:33 +0000",
         "categoria": "SEO"
       },
       {
-        "titulo": "Reviews, Reputation & Listings: The Local Signals AI Now Reads via @sejournal, @MattGSouthern",
-        "enlace": "https://www.searchenginejournal.com/reviews-reputation-listings-the-local-signals-ai-now-reads/583795/",
+        "titulo": "AI’s Impact Is Outrunning Measurement: The Trust And Attribution Gap Facing Brands via @sejournal, @gregjarboe",
+        "enlace": "https://www.searchenginejournal.com/ais-impact-is-outrunning-measurement-the-trust-and-attribution-gap-facing-brands/584141/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 03 Aug 2026 12:00:26 +0000",
+        "fecha": "Sat, 08 Aug 2026 12:00:30 +0000",
         "categoria": "SEO"
       },
       {
@@ -51,31 +51,31 @@
     "SEO Local": [],
     "Marketing Digital": [
       {
-        "titulo": "HubSpot AEO vs. Otterly: Platform or standalone tool?",
-        "enlace": "https://blog.hubspot.com/marketing/hubspot-vs-otterly",
+        "titulo": "What is enterprise marketing automation? Features, platforms, and best practices",
+        "enlace": "https://blog.hubspot.com/marketing/enterprise-marketing-automation",
         "fuente": "HubSpot Blog",
-        "fecha": "Thu, 30 Jul 2026 11:00:02 GMT",
+        "fecha": "Fri, 07 Aug 2026 11:00:02 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "Profound vs. Semrush AEO: What each tool actually does",
-        "enlace": "https://blog.hubspot.com/marketing/profound-vs-semrush",
+        "titulo": "HubSpot AEO vs. Scrunch: Which tool fits your workflow?",
+        "enlace": "https://blog.hubspot.com/marketing/hubspot-vs-scrunch",
         "fuente": "HubSpot Blog",
-        "fecha": "Thu, 30 Jul 2026 00:00:00 GMT",
+        "fecha": "Thu, 06 Aug 2026 18:30:02 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "How to Get the Most Out of the New AnswerThePublic (2026 Guide)",
-        "enlace": "https://neilpatel.com/blog/how-to-use-new-answerthepublic-guide/",
+        "titulo": "SEO Guide for SaaS Companies",
+        "enlace": "https://neilpatel.com/blog/saas-seo/",
         "fuente": "Neil Patel",
-        "fecha": "Fri, 31 Jul 2026 16:00:00 +0000",
+        "fecha": "Fri, 07 Aug 2026 19:00:00 +0000",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "TikTok Gives Creators More Control Over Keyword Metadata: What It Means for Social Search",
-        "enlace": "https://neilpatel.com/blog/tiktok-keyword-metadata/",
+        "titulo": "What Claude Design Could Mean for UX",
+        "enlace": "https://neilpatel.com/blog/claude-design-ux/",
         "fuente": "Neil Patel",
-        "fecha": "Wed, 29 Jul 2026 16:00:00 +0000",
+        "fecha": "Thu, 06 Aug 2026 16:00:00 +0000",
         "categoria": "Marketing Digital"
       }
     ]
