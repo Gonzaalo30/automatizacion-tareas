@@ -1,36 +1,36 @@
 {
-  "fecha_generacion": "2026-08-10T10:13:15.293665",
+  "fecha_generacion": "2026-08-17T09:36:39.533829",
   "dia_ejecucion": "Lunes 9:00 AM",
   "noticias_por_categoria": {
     "IA": [
       {
-        "titulo": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-        "enlace": "https://www.docker.com/products/docker-sandboxes/",
+        "titulo": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+        "enlace": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
         "fuente": "Hacker News",
-        "fecha": "Mon, 10 Aug 2026 06:02:38 +0000",
+        "fecha": "Sun, 16 Aug 2026 23:45:09 +0000",
         "categoria": "IA"
       },
       {
-        "titulo": "What Happened to HackerOne?",
-        "enlace": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
+        "titulo": "Beware the Permanent Periphery",
+        "enlace": "https://asteriskmag.com/issues/15/beware-the-permanent-periphery",
         "fuente": "Hacker News",
-        "fecha": "Mon, 10 Aug 2026 02:23:17 +0000",
+        "fecha": "Tue, 11 Aug 2026 00:35:17 +0000",
         "categoria": "IA"
       }
     ],
     "SEO": [
       {
-        "titulo": "How To Remove Negative Content From Google Before AI Answers Cite It via @sejournal, @EraseDotCom",
-        "enlace": "https://www.searchenginejournal.com/how-to-remove-negative-content-from-google-before-ai-answers-cite-it-spa/582989/",
+        "titulo": "ChatGPT’s Index, GA Benchmarks, Google Refiles Complaint – SEO Pulse via @sejournal, @MattGSouthern",
+        "enlace": "https://www.searchenginejournal.com/seo-pulse-chatgpts-index-ga-benchmarks-google-refiles-complaint/585748/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 10 Aug 2026 05:00:33 +0000",
+        "fecha": "Sat, 15 Aug 2026 12:00:14 +0000",
         "categoria": "SEO"
       },
       {
-        "titulo": "AI’s Impact Is Outrunning Measurement: The Trust And Attribution Gap Facing Brands via @sejournal, @gregjarboe",
-        "enlace": "https://www.searchenginejournal.com/ais-impact-is-outrunning-measurement-the-trust-and-attribution-gap-facing-brands/584141/",
+        "titulo": "Anthropic Reveals What The Watermark Is And How It Can Be Defeated via @sejournal, @martinibuster",
+        "enlace": "https://www.searchenginejournal.com/anthropic-reveals-what-the-watermark-is-and-how-it-can-be-defeated/585930/",
         "fuente": "Search Engine Journal",
-        "fecha": "Sat, 08 Aug 2026 12:00:30 +0000",
+        "fecha": "Sat, 15 Aug 2026 10:46:00 +0000",
         "categoria": "SEO"
       },
       {
@@ -51,31 +51,31 @@
     "SEO Local": [],
     "Marketing Digital": [
       {
-        "titulo": "What is enterprise marketing automation? Features, platforms, and best practices",
-        "enlace": "https://blog.hubspot.com/marketing/enterprise-marketing-automation",
+        "titulo": "Pardot alternatives: What B2B marketers are choosing now",
+        "enlace": "https://blog.hubspot.com/marketing/pardot-alternatives",
         "fuente": "HubSpot Blog",
-        "fecha": "Fri, 07 Aug 2026 11:00:02 GMT",
+        "fecha": "Fri, 14 Aug 2026 19:30:01 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "HubSpot AEO vs. Scrunch: Which tool fits your workflow?",
-        "enlace": "https://blog.hubspot.com/marketing/hubspot-vs-scrunch",
+        "titulo": "HubSpot AEO vs. Profound: Features, pricing, and use cases",
+        "enlace": "https://blog.hubspot.com/marketing/hubspot-vs-profound",
         "fuente": "HubSpot Blog",
-        "fecha": "Thu, 06 Aug 2026 18:30:02 GMT",
+        "fecha": "Thu, 13 Aug 2026 19:17:11 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "SEO Guide for SaaS Companies",
-        "enlace": "https://neilpatel.com/blog/saas-seo/",
+        "titulo": "Google Search Is Becoming AI Search: What This Means for Your Brand",
+        "enlace": "https://neilpatel.com/blog/google-search-becoming-ai-search/",
         "fuente": "Neil Patel",
-        "fecha": "Fri, 07 Aug 2026 19:00:00 +0000",
+        "fecha": "Fri, 14 Aug 2026 16:00:00 +0000",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "What Claude Design Could Mean for UX",
-        "enlace": "https://neilpatel.com/blog/claude-design-ux/",
+        "titulo": "Large Language Model (LLM) Editing Quietly Corrupts Documents. Here’s What the Research Says",
+        "enlace": "https://neilpatel.com/blog/ai-editing-corrupts-documents/",
         "fuente": "Neil Patel",
-        "fecha": "Thu, 06 Aug 2026 16:00:00 +0000",
+        "fecha": "Wed, 12 Aug 2026 19:00:00 +0000",
         "categoria": "Marketing Digital"
       }
     ]
