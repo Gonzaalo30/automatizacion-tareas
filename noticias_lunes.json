@@ -1,36 +1,36 @@
 {
-  "fecha_generacion": "2026-08-17T09:36:39.533829",
+  "fecha_generacion": "2026-08-24T09:42:27.634401",
   "dia_ejecucion": "Lunes 9:00 AM",
   "noticias_por_categoria": {
     "IA": [
       {
-        "titulo": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
-        "enlace": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+        "titulo": "Everything I own, owned",
+        "enlace": "https://schlarp.com/posts/everything-i-own-owned/",
         "fuente": "Hacker News",
-        "fecha": "Sun, 16 Aug 2026 23:45:09 +0000",
+        "fecha": "Sun, 23 Aug 2026 22:41:04 +0000",
         "categoria": "IA"
       },
       {
-        "titulo": "Beware the Permanent Periphery",
-        "enlace": "https://asteriskmag.com/issues/15/beware-the-permanent-periphery",
+        "titulo": "I were 17, I'd learn how to build LLMs from scratch",
+        "enlace": "https://twitter.com/paulg/status/2091544343589060625",
         "fuente": "Hacker News",
-        "fecha": "Tue, 11 Aug 2026 00:35:17 +0000",
+        "fecha": "Sun, 23 Aug 2026 20:38:09 +0000",
         "categoria": "IA"
       }
     ],
     "SEO": [
       {
-        "titulo": "ChatGPT’s Index, GA Benchmarks, Google Refiles Complaint – SEO Pulse via @sejournal, @MattGSouthern",
-        "enlace": "https://www.searchenginejournal.com/seo-pulse-chatgpts-index-ga-benchmarks-google-refiles-complaint/585748/",
+        "titulo": "Spam Update, Generative UI In AIOs, Reddit Drop – SEO Pulse via @sejournal, @MattGSouthern",
+        "enlace": "https://www.searchenginejournal.com/seo-pulse-spam-update-generative-ui-ai-overviews-reddit-drop/586597/",
         "fuente": "Search Engine Journal",
-        "fecha": "Sat, 15 Aug 2026 12:00:14 +0000",
+        "fecha": "Sat, 22 Aug 2026 12:30:28 +0000",
         "categoria": "SEO"
       },
       {
-        "titulo": "Anthropic Reveals What The Watermark Is And How It Can Be Defeated via @sejournal, @martinibuster",
-        "enlace": "https://www.searchenginejournal.com/anthropic-reveals-what-the-watermark-is-and-how-it-can-be-defeated/585930/",
+        "titulo": "AI Mode Queries Are 3X Longer – Why Your Page Should Lead With The Answer via @sejournal, @gregjarboe",
+        "enlace": "https://www.searchenginejournal.com/ai-mode-queries-are-3x-longer-the-case-for-leading-with-the-answer/585990/",
         "fuente": "Search Engine Journal",
-        "fecha": "Sat, 15 Aug 2026 10:46:00 +0000",
+        "fecha": "Fri, 21 Aug 2026 19:00:14 +0000",
         "categoria": "SEO"
       },
       {
@@ -51,31 +51,31 @@
     "SEO Local": [],
     "Marketing Digital": [
       {
-        "titulo": "Pardot alternatives: What B2B marketers are choosing now",
-        "enlace": "https://blog.hubspot.com/marketing/pardot-alternatives",
+        "titulo": "Peec AI alternatives for AI visibility monitoring in 2026",
+        "enlace": "https://blog.hubspot.com/marketing/peec-ai-alternatives",
         "fuente": "HubSpot Blog",
-        "fecha": "Fri, 14 Aug 2026 19:30:01 GMT",
+        "fecha": "Fri, 21 Aug 2026 11:00:02 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "HubSpot AEO vs. Profound: Features, pricing, and use cases",
-        "enlace": "https://blog.hubspot.com/marketing/hubspot-vs-profound",
+        "titulo": "Tech stack consolidation: The business case for unified systems & how to build them",
+        "enlace": "https://blog.hubspot.com/marketing/tech-stack-consolidation",
         "fuente": "HubSpot Blog",
-        "fecha": "Thu, 13 Aug 2026 19:17:11 GMT",
+        "fecha": "Fri, 21 Aug 2026 11:00:02 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "Google Search Is Becoming AI Search: What This Means for Your Brand",
-        "enlace": "https://neilpatel.com/blog/google-search-becoming-ai-search/",
+        "titulo": "Paid Media Forecasting: How to Predict Ad Performance (Without Getting It Wrong)",
+        "enlace": "https://neilpatel.com/blog/paid-media-forecasting/",
         "fuente": "Neil Patel",
-        "fecha": "Fri, 14 Aug 2026 16:00:00 +0000",
+        "fecha": "Fri, 21 Aug 2026 16:00:00 +0000",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "Large Language Model (LLM) Editing Quietly Corrupts Documents. Here’s What the Research Says",
-        "enlace": "https://neilpatel.com/blog/ai-editing-corrupts-documents/",
+        "titulo": "SEO Forecasting: How to Predict Your Traffic in an AI Era",
+        "enlace": "https://neilpatel.com/blog/seo-forecasting/",
         "fuente": "Neil Patel",
-        "fecha": "Wed, 12 Aug 2026 19:00:00 +0000",
+        "fecha": "Wed, 19 Aug 2026 16:00:00 +0000",
         "categoria": "Marketing Digital"
       }
     ]
