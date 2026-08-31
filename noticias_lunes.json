@@ -1,36 +1,36 @@
 {
-  "fecha_generacion": "2026-08-24T09:42:27.634401",
+  "fecha_generacion": "2026-08-31T16:40:34.717885",
   "dia_ejecucion": "Lunes 9:00 AM",
   "noticias_por_categoria": {
     "IA": [
       {
-        "titulo": "Everything I own, owned",
-        "enlace": "https://schlarp.com/posts/everything-i-own-owned/",
+        "titulo": "Playa Phone",
+        "enlace": "https://playaphone.com/",
         "fuente": "Hacker News",
-        "fecha": "Sun, 23 Aug 2026 22:41:04 +0000",
+        "fecha": "Mon, 31 Aug 2026 14:52:26 +0000",
         "categoria": "IA"
       },
       {
-        "titulo": "I were 17, I'd learn how to build LLMs from scratch",
-        "enlace": "https://twitter.com/paulg/status/2091544343589060625",
+        "titulo": "OpenShot 4.0: Record, Edit, and Color Like Never Before",
+        "enlace": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
         "fuente": "Hacker News",
-        "fecha": "Sun, 23 Aug 2026 20:38:09 +0000",
+        "fecha": "Mon, 31 Aug 2026 09:59:05 +0000",
         "categoria": "IA"
       }
     ],
     "SEO": [
       {
-        "titulo": "Spam Update, Generative UI In AIOs, Reddit Drop – SEO Pulse via @sejournal, @MattGSouthern",
-        "enlace": "https://www.searchenginejournal.com/seo-pulse-spam-update-generative-ui-ai-overviews-reddit-drop/586597/",
+        "titulo": "How To Restructure Your Marketing Team & Budget For The AI-Search Era",
+        "enlace": "https://www.searchenginejournal.com/how-to-restructure-your-marketing-team-budget-for-the-ai-search-era/586153/",
         "fuente": "Search Engine Journal",
-        "fecha": "Sat, 22 Aug 2026 12:30:28 +0000",
+        "fecha": "Mon, 31 Aug 2026 14:30:03 +0000",
         "categoria": "SEO"
       },
       {
-        "titulo": "AI Mode Queries Are 3X Longer – Why Your Page Should Lead With The Answer via @sejournal, @gregjarboe",
-        "enlace": "https://www.searchenginejournal.com/ai-mode-queries-are-3x-longer-the-case-for-leading-with-the-answer/585990/",
+        "titulo": "Google Ads Is Automating More Decisions, Your Measurement Needs To Get Better via @sejournal, @brookeosmundson",
+        "enlace": "https://www.searchenginejournal.com/google-ads-is-automating-more-decisions-your-measurement-needs-to-get-better/586887/",
         "fuente": "Search Engine Journal",
-        "fecha": "Fri, 21 Aug 2026 19:00:14 +0000",
+        "fecha": "Mon, 31 Aug 2026 12:00:36 +0000",
         "categoria": "SEO"
       },
       {
@@ -51,31 +51,31 @@
     "SEO Local": [],
     "Marketing Digital": [
       {
-        "titulo": "Peec AI alternatives for AI visibility monitoring in 2026",
-        "enlace": "https://blog.hubspot.com/marketing/peec-ai-alternatives",
+        "titulo": "AEO mentions vs. citations: Key differences explained",
+        "enlace": "https://blog.hubspot.com/marketing/aeo-mentions-vs-citations",
         "fuente": "HubSpot Blog",
-        "fecha": "Fri, 21 Aug 2026 11:00:02 GMT",
+        "fecha": "Fri, 28 Aug 2026 12:00:03 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "Tech stack consolidation: The business case for unified systems & how to build them",
-        "enlace": "https://blog.hubspot.com/marketing/tech-stack-consolidation",
+        "titulo": "Best Marketo alternatives worth evaluating in 2026",
+        "enlace": "https://blog.hubspot.com/marketing/marketo-alternatives",
         "fuente": "HubSpot Blog",
-        "fecha": "Fri, 21 Aug 2026 11:00:02 GMT",
+        "fecha": "Wed, 26 Aug 2026 11:00:03 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "Paid Media Forecasting: How to Predict Ad Performance (Without Getting It Wrong)",
-        "enlace": "https://neilpatel.com/blog/paid-media-forecasting/",
+        "titulo": "Best PPC Companies of 2026",
+        "enlace": "https://neilpatel.com/blog/ppc-companies/",
         "fuente": "Neil Patel",
-        "fecha": "Fri, 21 Aug 2026 16:00:00 +0000",
+        "fecha": "Mon, 31 Aug 2026 16:00:00 +0000",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "SEO Forecasting: How to Predict Your Traffic in an AI Era",
-        "enlace": "https://neilpatel.com/blog/seo-forecasting/",
+        "titulo": "The Practical Guide to Google Analytics 4",
+        "enlace": "https://neilpatel.com/blog/google-analytics-4/",
         "fuente": "Neil Patel",
-        "fecha": "Wed, 19 Aug 2026 16:00:00 +0000",
+        "fecha": "Wed, 26 Aug 2026 16:00:00 +0000",
         "categoria": "Marketing Digital"
       }
     ]
