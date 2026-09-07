@@ -1,36 +1,36 @@
 {
-  "fecha_generacion": "2026-08-31T16:40:34.717885",
+  "fecha_generacion": "2026-09-07T14:44:49.449243",
   "dia_ejecucion": "Lunes 9:00 AM",
   "noticias_por_categoria": {
     "IA": [
       {
-        "titulo": "Playa Phone",
-        "enlace": "https://playaphone.com/",
+        "titulo": "De-Brainrot Vacations",
+        "enlace": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
         "fuente": "Hacker News",
-        "fecha": "Mon, 31 Aug 2026 14:52:26 +0000",
+        "fecha": "Mon, 07 Sep 2026 13:00:48 +0000",
         "categoria": "IA"
       },
       {
-        "titulo": "OpenShot 4.0: Record, Edit, and Color Like Never Before",
-        "enlace": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
+        "titulo": "bzip3",
+        "enlace": "https://github.com/iczelia/bzip3",
         "fuente": "Hacker News",
-        "fecha": "Mon, 31 Aug 2026 09:59:05 +0000",
+        "fecha": "Mon, 07 Sep 2026 13:35:13 +0000",
         "categoria": "IA"
       }
     ],
     "SEO": [
       {
-        "titulo": "How To Restructure Your Marketing Team & Budget For The AI-Search Era",
-        "enlace": "https://www.searchenginejournal.com/how-to-restructure-your-marketing-team-budget-for-the-ai-search-era/586153/",
+        "titulo": "Harvard Found The Public Has Little Objection To AI Taking Search Marketers’ Jobs via @sejournal, @gregjarboe",
+        "enlace": "https://www.searchenginejournal.com/harvard-found-the-public-has-little-objection-to-ai-taking-search-marketers-jobs/587715/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 31 Aug 2026 14:30:03 +0000",
+        "fecha": "Mon, 07 Sep 2026 14:30:22 +0000",
         "categoria": "SEO"
       },
       {
-        "titulo": "Google Ads Is Automating More Decisions, Your Measurement Needs To Get Better via @sejournal, @brookeosmundson",
-        "enlace": "https://www.searchenginejournal.com/google-ads-is-automating-more-decisions-your-measurement-needs-to-get-better/586887/",
+        "titulo": "Your Biggest AI Search Risk Is Conflicting Information About Your Brand via @sejournal, @cshel",
+        "enlace": "https://www.searchenginejournal.com/biggest-ai-search-risk-is-conflicting-information/586904/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 31 Aug 2026 12:00:36 +0000",
+        "fecha": "Mon, 07 Sep 2026 12:00:11 +0000",
         "categoria": "SEO"
       },
       {
@@ -51,31 +51,31 @@
     "SEO Local": [],
     "Marketing Digital": [
       {
-        "titulo": "AEO mentions vs. citations: Key differences explained",
-        "enlace": "https://blog.hubspot.com/marketing/aeo-mentions-vs-citations",
+        "titulo": "Ahrefs Brand Radar alternatives for marketing teams",
+        "enlace": "https://blog.hubspot.com/marketing/ahrefs-brand-radar-alternatives",
         "fuente": "HubSpot Blog",
-        "fecha": "Fri, 28 Aug 2026 12:00:03 GMT",
+        "fecha": "Thu, 03 Sep 2026 21:15:00 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "Best Marketo alternatives worth evaluating in 2026",
-        "enlace": "https://blog.hubspot.com/marketing/marketo-alternatives",
+        "titulo": "What high-citation brands do differently in AI search: The 2026 AEO playbook",
+        "enlace": "https://blog.hubspot.com/marketing/brands-with-high-ai-search-citations",
         "fuente": "HubSpot Blog",
-        "fecha": "Wed, 26 Aug 2026 11:00:03 GMT",
+        "fecha": "Wed, 02 Sep 2026 12:00:02 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "Best PPC Companies of 2026",
-        "enlace": "https://neilpatel.com/blog/ppc-companies/",
+        "titulo": "Meta Tags for SEO: What They Are, Why They Matter, and How to Use Them",
+        "enlace": "https://neilpatel.com/blog/why-meta-tags-are-so-important/",
         "fuente": "Neil Patel",
-        "fecha": "Mon, 31 Aug 2026 16:00:00 +0000",
+        "fecha": "Fri, 04 Sep 2026 16:00:00 +0000",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "The Practical Guide to Google Analytics 4",
-        "enlace": "https://neilpatel.com/blog/google-analytics-4/",
+        "titulo": "Meta Description Best Practices for SEO: Tips and Examples for 2026",
+        "enlace": "https://neilpatel.com/blog/meta-description-magic/",
         "fuente": "Neil Patel",
-        "fecha": "Wed, 26 Aug 2026 16:00:00 +0000",
+        "fecha": "Wed, 02 Sep 2026 19:00:00 +0000",
         "categoria": "Marketing Digital"
       }
     ]
