@@ -1,36 +1,36 @@
 {
-  "fecha_generacion": "2026-09-07T14:44:49.449243",
+  "fecha_generacion": "2026-09-14T15:37:18.127368",
   "dia_ejecucion": "Lunes 9:00 AM",
   "noticias_por_categoria": {
     "IA": [
       {
-        "titulo": "De-Brainrot Vacations",
-        "enlace": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
+        "titulo": "How to Write an Effective Software Design Document",
+        "enlace": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
         "fuente": "Hacker News",
-        "fecha": "Mon, 07 Sep 2026 13:00:48 +0000",
+        "fecha": "Mon, 14 Sep 2026 13:00:46 +0000",
         "categoria": "IA"
       },
       {
-        "titulo": "bzip3",
-        "enlace": "https://github.com/iczelia/bzip3",
+        "titulo": "Jabber/XMPP: How Do We Gain Traction?",
+        "enlace": "https://gultsch.de/posts/how-do-we-gain-traction/",
         "fuente": "Hacker News",
-        "fecha": "Mon, 07 Sep 2026 13:35:13 +0000",
+        "fecha": "Mon, 14 Sep 2026 14:37:49 +0000",
         "categoria": "IA"
       }
     ],
     "SEO": [
       {
-        "titulo": "Harvard Found The Public Has Little Objection To AI Taking Search Marketers’ Jobs via @sejournal, @gregjarboe",
-        "enlace": "https://www.searchenginejournal.com/harvard-found-the-public-has-little-objection-to-ai-taking-search-marketers-jobs/587715/",
+        "titulo": "AI Isn’t Delivering Marketing Efficiency, It’s Repeating Programmatic’s Broken Promise via @sejournal, @gregjarboe",
+        "enlace": "https://www.searchenginejournal.com/ai-isnt-delivering-marketing-efficiency-its-repeating-programmatics-broken-promise/588722/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 07 Sep 2026 14:30:22 +0000",
+        "fecha": "Mon, 14 Sep 2026 14:30:08 +0000",
         "categoria": "SEO"
       },
       {
-        "titulo": "Your Biggest AI Search Risk Is Conflicting Information About Your Brand via @sejournal, @cshel",
-        "enlace": "https://www.searchenginejournal.com/biggest-ai-search-risk-is-conflicting-information/586904/",
+        "titulo": "How To Connect AI Search Visibility To Local Leads via @sejournal, @lorenbaker",
+        "enlace": "https://www.searchenginejournal.com/how-to-connect-ai-search-visibility-to-local-leads/588096/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 07 Sep 2026 12:00:11 +0000",
+        "fecha": "Mon, 14 Sep 2026 12:00:25 +0000",
         "categoria": "SEO"
       },
       {
@@ -51,31 +51,31 @@
     "SEO Local": [],
     "Marketing Digital": [
       {
-        "titulo": "Ahrefs Brand Radar alternatives for marketing teams",
-        "enlace": "https://blog.hubspot.com/marketing/ahrefs-brand-radar-alternatives",
+        "titulo": "AI search tools marketers should know in 2026",
+        "enlace": "https://blog.hubspot.com/marketing/best-ai-search-tools",
         "fuente": "HubSpot Blog",
-        "fecha": "Thu, 03 Sep 2026 21:15:00 GMT",
+        "fecha": "Thu, 10 Sep 2026 12:00:03 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "What high-citation brands do differently in AI search: The 2026 AEO playbook",
-        "enlace": "https://blog.hubspot.com/marketing/brands-with-high-ai-search-citations",
+        "titulo": "How to optimize your website for AI search",
+        "enlace": "https://blog.hubspot.com/marketing/optimize-website-ai-search",
         "fuente": "HubSpot Blog",
-        "fecha": "Wed, 02 Sep 2026 12:00:02 GMT",
+        "fecha": "Wed, 09 Sep 2026 12:00:03 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "Meta Tags for SEO: What They Are, Why They Matter, and How to Use Them",
-        "enlace": "https://neilpatel.com/blog/why-meta-tags-are-so-important/",
+        "titulo": "The Best Landing Page Examples and Why They Work",
+        "enlace": "https://neilpatel.com/blog/landing-page-examples/",
         "fuente": "Neil Patel",
-        "fecha": "Fri, 04 Sep 2026 16:00:00 +0000",
+        "fecha": "Fri, 11 Sep 2026 16:00:00 +0000",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "Meta Description Best Practices for SEO: Tips and Examples for 2026",
-        "enlace": "https://neilpatel.com/blog/meta-description-magic/",
+        "titulo": "Education Marketing: A Complete Guide for 2026",
+        "enlace": "https://neilpatel.com/blog/educational-marketing/",
         "fuente": "Neil Patel",
-        "fecha": "Wed, 02 Sep 2026 19:00:00 +0000",
+        "fecha": "Wed, 09 Sep 2026 16:00:00 +0000",
         "categoria": "Marketing Digital"
       }
     ]
