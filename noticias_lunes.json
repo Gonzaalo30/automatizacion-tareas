@@ -1,36 +1,36 @@
 {
-  "fecha_generacion": "2026-09-14T15:37:18.127368",
+  "fecha_generacion": "2026-09-21T15:37:30.096871",
   "dia_ejecucion": "Lunes 9:00 AM",
   "noticias_por_categoria": {
     "IA": [
       {
-        "titulo": "How to Write an Effective Software Design Document",
-        "enlace": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
+        "titulo": "What Sun Got Wrong",
+        "enlace": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
         "fuente": "Hacker News",
-        "fecha": "Mon, 14 Sep 2026 13:00:46 +0000",
+        "fecha": "Mon, 21 Sep 2026 14:03:18 +0000",
         "categoria": "IA"
       },
       {
-        "titulo": "Jabber/XMPP: How Do We Gain Traction?",
-        "enlace": "https://gultsch.de/posts/how-do-we-gain-traction/",
+        "titulo": "Uber arbitration award over Emily Normandin-Parker's death",
+        "enlace": "https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death",
         "fuente": "Hacker News",
-        "fecha": "Mon, 14 Sep 2026 14:37:49 +0000",
+        "fecha": "Mon, 21 Sep 2026 14:09:48 +0000",
         "categoria": "IA"
       }
     ],
     "SEO": [
       {
-        "titulo": "AI Isn’t Delivering Marketing Efficiency, It’s Repeating Programmatic’s Broken Promise via @sejournal, @gregjarboe",
-        "enlace": "https://www.searchenginejournal.com/ai-isnt-delivering-marketing-efficiency-its-repeating-programmatics-broken-promise/588722/",
+        "titulo": "Shopify CEO Warns AI ‘Slop Grenades’ Shift Work To Coworkers via @sejournal, @MattGSouthern",
+        "enlace": "https://www.searchenginejournal.com/shopify-ceo-ai-slop-grenades-coworkers/590292/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 14 Sep 2026 14:30:08 +0000",
+        "fecha": "Mon, 21 Sep 2026 15:14:46 +0000",
         "categoria": "SEO"
       },
       {
-        "titulo": "How To Connect AI Search Visibility To Local Leads via @sejournal, @lorenbaker",
-        "enlace": "https://www.searchenginejournal.com/how-to-connect-ai-search-visibility-to-local-leads/588096/",
+        "titulo": "Google Lighthouse Adds Audit For AI Agent Resource Discovery via @sejournal, @MattGSouthern",
+        "enlace": "https://www.searchenginejournal.com/google-lighthouse-ai-agent-resource-discovery-audit/590274/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 14 Sep 2026 12:00:25 +0000",
+        "fecha": "Mon, 21 Sep 2026 14:32:33 +0000",
         "categoria": "SEO"
       },
       {
@@ -51,31 +51,31 @@
     "SEO Local": [],
     "Marketing Digital": [
       {
-        "titulo": "AI search tools marketers should know in 2026",
-        "enlace": "https://blog.hubspot.com/marketing/best-ai-search-tools",
+        "titulo": "The psychology behind why AI shows it's working",
+        "enlace": "https://blog.hubspot.com/marketing/why-ai-shows-loadtime",
         "fuente": "HubSpot Blog",
-        "fecha": "Thu, 10 Sep 2026 12:00:03 GMT",
+        "fecha": "Mon, 21 Sep 2026 12:00:03 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "How to optimize your website for AI search",
-        "enlace": "https://blog.hubspot.com/marketing/optimize-website-ai-search",
+        "titulo": "Inside the creator economy’s AI reckoning",
+        "enlace": "https://blog.hubspot.com/marketing/creator-economy-ai-reckoning",
         "fuente": "HubSpot Blog",
-        "fecha": "Wed, 09 Sep 2026 12:00:03 GMT",
+        "fecha": "Wed, 16 Sep 2026 12:00:03 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "The Best Landing Page Examples and Why They Work",
-        "enlace": "https://neilpatel.com/blog/landing-page-examples/",
+        "titulo": "Cyber5 Prep: Are You Ready for Paid Media’s Biggest Week?",
+        "enlace": "https://neilpatel.com/blog/cyber5-paid-media-prep/",
         "fuente": "Neil Patel",
-        "fecha": "Fri, 11 Sep 2026 16:00:00 +0000",
+        "fecha": "Thu, 17 Sep 2026 19:00:01 +0000",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "Education Marketing: A Complete Guide for 2026",
-        "enlace": "https://neilpatel.com/blog/educational-marketing/",
+        "titulo": "GEO by Engine: How ChatGPT, Claude, Gemini, and Perplexity Really Decide What to Say",
+        "enlace": "https://neilpatel.com/blog/geo-by-engine/",
         "fuente": "Neil Patel",
-        "fecha": "Wed, 09 Sep 2026 16:00:00 +0000",
+        "fecha": "Wed, 16 Sep 2026 16:00:00 +0000",
         "categoria": "Marketing Digital"
       }
     ]
