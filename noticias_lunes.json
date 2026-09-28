@@ -1,36 +1,36 @@
 {
-  "fecha_generacion": "2026-09-21T15:37:30.096871",
+  "fecha_generacion": "2026-09-28T17:19:26.714822",
   "dia_ejecucion": "Lunes 9:00 AM",
   "noticias_por_categoria": {
     "IA": [
       {
-        "titulo": "What Sun Got Wrong",
-        "enlace": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+        "titulo": "The problem is not the AI code, but nobody knows anything anymore",
+        "enlace": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
         "fuente": "Hacker News",
-        "fecha": "Mon, 21 Sep 2026 14:03:18 +0000",
+        "fecha": "Mon, 28 Sep 2026 16:11:42 +0000",
         "categoria": "IA"
       },
       {
-        "titulo": "Uber arbitration award over Emily Normandin-Parker's death",
-        "enlace": "https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death",
+        "titulo": "Pirating the Pirates",
+        "enlace": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
         "fuente": "Hacker News",
-        "fecha": "Mon, 21 Sep 2026 14:09:48 +0000",
+        "fecha": "Mon, 28 Sep 2026 15:54:15 +0000",
         "categoria": "IA"
       }
     ],
     "SEO": [
       {
-        "titulo": "Shopify CEO Warns AI ‘Slop Grenades’ Shift Work To Coworkers via @sejournal, @MattGSouthern",
-        "enlace": "https://www.searchenginejournal.com/shopify-ceo-ai-slop-grenades-coworkers/590292/",
+        "titulo": "CallRail Makes ChatGPT Ads Measurable For SMBs And Marketing Agencies via @sejournal, @CallRail",
+        "enlace": "https://www.searchenginejournal.com/callrail-makes-chatgpt-ads-measurable-for-smbs-and-marketing-agencies-spn/589843/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 21 Sep 2026 15:14:46 +0000",
+        "fecha": "Mon, 28 Sep 2026 15:46:48 +0000",
         "categoria": "SEO"
       },
       {
-        "titulo": "Google Lighthouse Adds Audit For AI Agent Resource Discovery via @sejournal, @MattGSouthern",
-        "enlace": "https://www.searchenginejournal.com/google-lighthouse-ai-agent-resource-discovery-audit/590274/",
+        "titulo": "The Generative AI Report Sucks – Let’s Make It Brilliant",
+        "enlace": "https://www.searchenginejournal.com/the-generative-ai-report-sucks-lets-make-it-brilliant/590679/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 21 Sep 2026 14:32:33 +0000",
+        "fecha": "Mon, 28 Sep 2026 14:30:29 +0000",
         "categoria": "SEO"
       },
       {
@@ -51,31 +51,31 @@
     "SEO Local": [],
     "Marketing Digital": [
       {
-        "titulo": "The psychology behind why AI shows it's working",
-        "enlace": "https://blog.hubspot.com/marketing/why-ai-shows-loadtime",
+        "titulo": "AEO checker tools that measure answer engine visibility [2026]",
+        "enlace": "https://blog.hubspot.com/marketing/best-aeo-checkers",
         "fuente": "HubSpot Blog",
-        "fecha": "Mon, 21 Sep 2026 12:00:03 GMT",
+        "fecha": "Wed, 23 Sep 2026 15:30:05 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "Inside the creator economy’s AI reckoning",
-        "enlace": "https://blog.hubspot.com/marketing/creator-economy-ai-reckoning",
+        "titulo": "Scrunch vs. Peec AI: Choosing the right AEO tool [2026]",
+        "enlace": "https://blog.hubspot.com/marketing/scrunch-vs-peec-ai",
         "fuente": "HubSpot Blog",
-        "fecha": "Wed, 16 Sep 2026 12:00:03 GMT",
+        "fecha": "Tue, 22 Sep 2026 16:30:04 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "Cyber5 Prep: Are You Ready for Paid Media’s Biggest Week?",
-        "enlace": "https://neilpatel.com/blog/cyber5-paid-media-prep/",
+        "titulo": "Building Mini Personas to Write Content Your Target Audience Actually Wants",
+        "enlace": "https://neilpatel.com/blog/audience-first-content/",
         "fuente": "Neil Patel",
-        "fecha": "Thu, 17 Sep 2026 19:00:01 +0000",
+        "fecha": "Mon, 28 Sep 2026 16:00:00 +0000",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "GEO by Engine: How ChatGPT, Claude, Gemini, and Perplexity Really Decide What to Say",
-        "enlace": "https://neilpatel.com/blog/geo-by-engine/",
+        "titulo": "Data: Your Edge for AEO/GEO",
+        "enlace": "https://neilpatel.com/blog/original-data-ai-citations/",
         "fuente": "Neil Patel",
-        "fecha": "Wed, 16 Sep 2026 16:00:00 +0000",
+        "fecha": "Fri, 25 Sep 2026 16:00:00 +0000",
         "categoria": "Marketing Digital"
       }
     ]
