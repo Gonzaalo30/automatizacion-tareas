@@ -1,36 +1,36 @@
 {
-  "fecha_generacion": "2026-09-28T17:19:26.714822",
+  "fecha_generacion": "2026-10-05T17:49:18.240670",
   "dia_ejecucion": "Lunes 9:00 AM",
   "noticias_por_categoria": {
     "IA": [
       {
-        "titulo": "The problem is not the AI code, but nobody knows anything anymore",
-        "enlace": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
+        "titulo": "Web Search API",
+        "enlace": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
         "fuente": "Hacker News",
-        "fecha": "Mon, 28 Sep 2026 16:11:42 +0000",
+        "fecha": "Mon, 05 Oct 2026 10:47:06 +0000",
         "categoria": "IA"
       },
       {
-        "titulo": "Pirating the Pirates",
-        "enlace": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+        "titulo": "Making a GTK application in Haskell, part 1",
+        "enlace": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
         "fuente": "Hacker News",
-        "fecha": "Mon, 28 Sep 2026 15:54:15 +0000",
+        "fecha": "Mon, 05 Oct 2026 14:23:47 +0000",
         "categoria": "IA"
       }
     ],
     "SEO": [
       {
-        "titulo": "CallRail Makes ChatGPT Ads Measurable For SMBs And Marketing Agencies via @sejournal, @CallRail",
-        "enlace": "https://www.searchenginejournal.com/callrail-makes-chatgpt-ads-measurable-for-smbs-and-marketing-agencies-spn/589843/",
+        "titulo": "AI Cites Your Brand: How to Choose Your Next Move via @sejournal, @hethr_campbell",
+        "enlace": "https://www.searchenginejournal.com/ai-cites-your-brand-how-to-choose-your-next-move/589990/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 28 Sep 2026 15:46:48 +0000",
+        "fecha": "Mon, 05 Oct 2026 16:16:34 +0000",
         "categoria": "SEO"
       },
       {
-        "titulo": "The Generative AI Report Sucks – Let’s Make It Brilliant",
-        "enlace": "https://www.searchenginejournal.com/the-generative-ai-report-sucks-lets-make-it-brilliant/590679/",
+        "titulo": "Google’s Hidden Data Layer: What Is It And What To Do About It via @sejournal, @demirie",
+        "enlace": "https://www.searchenginejournal.com/googles-hidden-data-layer-what-is-it-and-what-to-do-about-it/590234/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 28 Sep 2026 14:30:29 +0000",
+        "fecha": "Mon, 05 Oct 2026 14:30:56 +0000",
         "categoria": "SEO"
       },
       {
@@ -51,31 +51,31 @@
     "SEO Local": [],
     "Marketing Digital": [
       {
-        "titulo": "AEO checker tools that measure answer engine visibility [2026]",
-        "enlace": "https://blog.hubspot.com/marketing/best-aeo-checkers",
+        "titulo": "GTM tech stack: What it is and how to build one",
+        "enlace": "https://blog.hubspot.com/marketing/gtm-tech-stack",
         "fuente": "HubSpot Blog",
-        "fecha": "Wed, 23 Sep 2026 15:30:05 GMT",
+        "fecha": "Fri, 02 Oct 2026 17:00:03 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "Scrunch vs. Peec AI: Choosing the right AEO tool [2026]",
-        "enlace": "https://blog.hubspot.com/marketing/scrunch-vs-peec-ai",
+        "titulo": "Diagnosing AEO gaps: A content audit guide",
+        "enlace": "https://blog.hubspot.com/marketing/fix-aeo-gaps",
         "fuente": "HubSpot Blog",
-        "fecha": "Tue, 22 Sep 2026 16:30:04 GMT",
+        "fecha": "Thu, 01 Oct 2026 18:30:05 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "Building Mini Personas to Write Content Your Target Audience Actually Wants",
-        "enlace": "https://neilpatel.com/blog/audience-first-content/",
+        "titulo": "AI Is Reshaping PR Budgets",
+        "enlace": "https://neilpatel.com/blog/ai-is-reshaping-pr-budgets/",
         "fuente": "Neil Patel",
-        "fecha": "Mon, 28 Sep 2026 16:00:00 +0000",
+        "fecha": "Mon, 05 Oct 2026 16:00:00 +0000",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "Data: Your Edge for AEO/GEO",
-        "enlace": "https://neilpatel.com/blog/original-data-ai-citations/",
+        "titulo": "What’s Making AI Impact Difficult to Measure for Marketers?",
+        "enlace": "https://neilpatel.com/blog/ai-attribution-difficult-to-measure/",
         "fuente": "Neil Patel",
-        "fecha": "Fri, 25 Sep 2026 16:00:00 +0000",
+        "fecha": "Fri, 02 Oct 2026 16:00:00 +0000",
         "categoria": "Marketing Digital"
       }
     ]
