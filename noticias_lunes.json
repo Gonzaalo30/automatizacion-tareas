@@ -1,36 +1,36 @@
 {
-  "fecha_generacion": "2026-10-05T17:49:18.240670",
+  "fecha_generacion": "2026-10-12T18:32:45.767729",
   "dia_ejecucion": "Lunes 9:00 AM",
   "noticias_por_categoria": {
     "IA": [
       {
-        "titulo": "Web Search API",
-        "enlace": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+        "titulo": "GLM-Legal",
+        "enlace": "https://z.ai/blog/glm-legal",
         "fuente": "Hacker News",
-        "fecha": "Mon, 05 Oct 2026 10:47:06 +0000",
+        "fecha": "Mon, 12 Oct 2026 16:11:45 +0000",
         "categoria": "IA"
       },
       {
-        "titulo": "Making a GTK application in Haskell, part 1",
-        "enlace": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
+        "titulo": "A Modern Web App in C",
+        "enlace": "https://prophitt.me/writing/a-modern-web-app-in-c",
         "fuente": "Hacker News",
-        "fecha": "Mon, 05 Oct 2026 14:23:47 +0000",
+        "fecha": "Mon, 12 Oct 2026 16:13:10 +0000",
         "categoria": "IA"
       }
     ],
     "SEO": [
       {
-        "titulo": "AI Cites Your Brand: How to Choose Your Next Move via @sejournal, @hethr_campbell",
-        "enlace": "https://www.searchenginejournal.com/ai-cites-your-brand-how-to-choose-your-next-move/589990/",
+        "titulo": "Negative Signals, Positive Intent: PPC Leads Hiding In ‘Cancel’ Searches",
+        "enlace": "https://www.searchenginejournal.com/negative-signals-positive-intent-ppc-leads-hiding-in-cancel-searches/590734/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 05 Oct 2026 16:16:34 +0000",
+        "fecha": "Mon, 12 Oct 2026 14:30:17 +0000",
         "categoria": "SEO"
       },
       {
-        "titulo": "Google’s Hidden Data Layer: What Is It And What To Do About It via @sejournal, @demirie",
-        "enlace": "https://www.searchenginejournal.com/googles-hidden-data-layer-what-is-it-and-what-to-do-about-it/590234/",
+        "titulo": "Your First 30 Days As A Growth Leader – The Challenge From Day One",
+        "enlace": "https://www.searchenginejournal.com/your-first-30-days-as-a-growth-leader-the-challenge-from-day-one/591036/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 05 Oct 2026 14:30:56 +0000",
+        "fecha": "Mon, 12 Oct 2026 12:00:07 +0000",
         "categoria": "SEO"
       },
       {
@@ -51,17 +51,24 @@
     "SEO Local": [],
     "Marketing Digital": [
       {
-        "titulo": "GTM tech stack: What it is and how to build one",
-        "enlace": "https://blog.hubspot.com/marketing/gtm-tech-stack",
+        "titulo": "AEO for digital PR: How to build earned media presence that shows up in AI results",
+        "enlace": "https://blog.hubspot.com/marketing/aeo-guide-for-digital-pr",
         "fuente": "HubSpot Blog",
-        "fecha": "Fri, 02 Oct 2026 17:00:03 GMT",
+        "fecha": "Thu, 08 Oct 2026 20:09:15 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "Diagnosing AEO gaps: A content audit guide",
-        "enlace": "https://blog.hubspot.com/marketing/fix-aeo-gaps",
+        "titulo": "AEO for marketing agencies: How to deliver measurable AI visibility results for every client",
+        "enlace": "https://blog.hubspot.com/marketing/aeo-guide-for-marketing-agencies",
         "fuente": "HubSpot Blog",
-        "fecha": "Thu, 01 Oct 2026 18:30:05 GMT",
+        "fecha": "Thu, 08 Oct 2026 20:05:40 GMT",
+        "categoria": "Marketing Digital"
+      },
+      {
+        "titulo": "Email Marketing in the AI Era: Personalization, Automation & Deliverability",
+        "enlace": "https://neilpatel.com/blog/email-marketing-ai-personalization/",
+        "fuente": "Neil Patel",
+        "fecha": "Wed, 07 Oct 2026 16:00:00 +0000",
         "categoria": "Marketing Digital"
       },
       {
@@ -69,13 +76,6 @@
         "enlace": "https://neilpatel.com/blog/ai-is-reshaping-pr-budgets/",
         "fuente": "Neil Patel",
         "fecha": "Mon, 05 Oct 2026 16:00:00 +0000",
-        "categoria": "Marketing Digital"
-      },
-      {
-        "titulo": "What’s Making AI Impact Difficult to Measure for Marketers?",
-        "enlace": "https://neilpatel.com/blog/ai-attribution-difficult-to-measure/",
-        "fuente": "Neil Patel",
-        "fecha": "Fri, 02 Oct 2026 16:00:00 +0000",
         "categoria": "Marketing Digital"
       }
     ]
