@@ -1,36 +1,36 @@
 {
-  "fecha_generacion": "2026-10-12T18:32:45.767729",
+  "fecha_generacion": "2026-10-19T16:09:15.096090",
   "dia_ejecucion": "Lunes 9:00 AM",
   "noticias_por_categoria": {
     "IA": [
       {
-        "titulo": "GLM-Legal",
-        "enlace": "https://z.ai/blog/glm-legal",
+        "titulo": "Wine Ported to OpenBSD",
+        "enlace": "https://marc.info/?l=openbsd-ports&m=179236125692175",
         "fuente": "Hacker News",
-        "fecha": "Mon, 12 Oct 2026 16:11:45 +0000",
+        "fecha": "Mon, 19 Oct 2026 13:35:34 +0000",
         "categoria": "IA"
       },
       {
-        "titulo": "A Modern Web App in C",
-        "enlace": "https://prophitt.me/writing/a-modern-web-app-in-c",
+        "titulo": "Timestral: Mistral release time-series foundation models",
+        "enlace": "https://mistral.ai/news/timestral/",
         "fuente": "Hacker News",
-        "fecha": "Mon, 12 Oct 2026 16:13:10 +0000",
+        "fecha": "Mon, 19 Oct 2026 09:59:32 +0000",
         "categoria": "IA"
       }
     ],
     "SEO": [
       {
-        "titulo": "Negative Signals, Positive Intent: PPC Leads Hiding In ‘Cancel’ Searches",
-        "enlace": "https://www.searchenginejournal.com/negative-signals-positive-intent-ppc-leads-hiding-in-cancel-searches/590734/",
+        "titulo": "DeepSeek Opens Its In-House Search Engine To Developers via @sejournal, @MattGSouthern",
+        "enlace": "https://www.searchenginejournal.com/deepseek-opens-its-in-house-search-engine-to-developers/593526/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 12 Oct 2026 14:30:17 +0000",
+        "fecha": "Mon, 19 Oct 2026 15:02:15 +0000",
         "categoria": "SEO"
       },
       {
-        "titulo": "Your First 30 Days As A Growth Leader – The Challenge From Day One",
-        "enlace": "https://www.searchenginejournal.com/your-first-30-days-as-a-growth-leader-the-challenge-from-day-one/591036/",
+        "titulo": "It Knew Every Word via @sejournal, @pedrodias",
+        "enlace": "https://www.searchenginejournal.com/it-knew-every-word/592680/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 12 Oct 2026 12:00:07 +0000",
+        "fecha": "Mon, 19 Oct 2026 14:00:20 +0000",
         "categoria": "SEO"
       },
       {
@@ -51,31 +51,31 @@
     "SEO Local": [],
     "Marketing Digital": [
       {
-        "titulo": "AEO for digital PR: How to build earned media presence that shows up in AI results",
-        "enlace": "https://blog.hubspot.com/marketing/aeo-guide-for-digital-pr",
+        "titulo": "What actually happened when our blog went AI-first: A manager's account",
+        "enlace": "https://blog.hubspot.com/marketing/how-ai-changed-our-editorial-process",
         "fuente": "HubSpot Blog",
-        "fecha": "Thu, 08 Oct 2026 20:09:15 GMT",
+        "fecha": "Mon, 19 Oct 2026 13:45:04 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "AEO for marketing agencies: How to deliver measurable AI visibility results for every client",
-        "enlace": "https://blog.hubspot.com/marketing/aeo-guide-for-marketing-agencies",
+        "titulo": "Best Claude skills for marketing and sales teams",
+        "enlace": "https://blog.hubspot.com/marketing/best-claude-skills",
         "fuente": "HubSpot Blog",
-        "fecha": "Thu, 08 Oct 2026 20:05:40 GMT",
+        "fecha": "Mon, 19 Oct 2026 13:45:04 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "Email Marketing in the AI Era: Personalization, Automation & Deliverability",
-        "enlace": "https://neilpatel.com/blog/email-marketing-ai-personalization/",
+        "titulo": "Why AI Makes Content Ecosystems Essential",
+        "enlace": "https://neilpatel.com/blog/ai-content-systems/",
         "fuente": "Neil Patel",
-        "fecha": "Wed, 07 Oct 2026 16:00:00 +0000",
+        "fecha": "Fri, 16 Oct 2026 16:00:00 +0000",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "AI Is Reshaping PR Budgets",
-        "enlace": "https://neilpatel.com/blog/ai-is-reshaping-pr-budgets/",
+        "titulo": "How Websites Are Becoming a Key Trust Signal for Consumers",
+        "enlace": "https://neilpatel.com/blog/website-credibility/",
         "fuente": "Neil Patel",
-        "fecha": "Mon, 05 Oct 2026 16:00:00 +0000",
+        "fecha": "Wed, 14 Oct 2026 16:00:00 +0000",
         "categoria": "Marketing Digital"
       }
     ]
