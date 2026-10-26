@@ -1,36 +1,36 @@
 {
-  "fecha_generacion": "2026-10-19T16:09:15.096090",
+  "fecha_generacion": "2026-10-26T15:48:42.063555",
   "dia_ejecucion": "Lunes 9:00 AM",
   "noticias_por_categoria": {
     "IA": [
       {
-        "titulo": "Wine Ported to OpenBSD",
-        "enlace": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+        "titulo": "Fixing Tool-Call Accuracy in vLLM",
+        "enlace": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
         "fuente": "Hacker News",
-        "fecha": "Mon, 19 Oct 2026 13:35:34 +0000",
+        "fecha": "Mon, 26 Oct 2026 12:59:48 +0000",
         "categoria": "IA"
       },
       {
-        "titulo": "Timestral: Mistral release time-series foundation models",
-        "enlace": "https://mistral.ai/news/timestral/",
+        "titulo": "One of the Greatest Inventions in the History of Human Transport",
+        "enlace": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
         "fuente": "Hacker News",
-        "fecha": "Mon, 19 Oct 2026 09:59:32 +0000",
+        "fecha": "Thu, 22 Oct 2026 19:52:50 +0000",
         "categoria": "IA"
       }
     ],
     "SEO": [
       {
-        "titulo": "DeepSeek Opens Its In-House Search Engine To Developers via @sejournal, @MattGSouthern",
-        "enlace": "https://www.searchenginejournal.com/deepseek-opens-its-in-house-search-engine-to-developers/593526/",
+        "titulo": "Your Google Ads Account Is Hitting Its Targets, So Why Isn’t The Business Growing?",
+        "enlace": "https://www.searchenginejournal.com/your-google-ads-account-is-hitting-its-targets-so-why-isnt-the-business-growing/592942/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 19 Oct 2026 15:02:15 +0000",
+        "fecha": "Mon, 26 Oct 2026 15:30:04 +0000",
         "categoria": "SEO"
       },
       {
-        "titulo": "It Knew Every Word via @sejournal, @pedrodias",
-        "enlace": "https://www.searchenginejournal.com/it-knew-every-word/592680/",
+        "titulo": "Google Gets The Thank-You via @sejournal, @pedrodias",
+        "enlace": "https://www.searchenginejournal.com/google-gets-the-thank-you/594108/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 19 Oct 2026 14:00:20 +0000",
+        "fecha": "Mon, 26 Oct 2026 14:00:54 +0000",
         "categoria": "SEO"
       },
       {
@@ -51,31 +51,31 @@
     "SEO Local": [],
     "Marketing Digital": [
       {
-        "titulo": "What actually happened when our blog went AI-first: A manager's account",
-        "enlace": "https://blog.hubspot.com/marketing/how-ai-changed-our-editorial-process",
+        "titulo": "How to create Claude skills: What your team actually needs",
+        "enlace": "https://blog.hubspot.com/marketing/create-claude-skills",
         "fuente": "HubSpot Blog",
-        "fecha": "Mon, 19 Oct 2026 13:45:04 GMT",
+        "fecha": "Mon, 26 Oct 2026 12:45:04 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "Best Claude skills for marketing and sales teams",
-        "enlace": "https://blog.hubspot.com/marketing/best-claude-skills",
+        "titulo": "Profound vs. Bluefish AI for AEO: Which tool wins for marketers?",
+        "enlace": "https://blog.hubspot.com/marketing/profound-vs-bluefish",
         "fuente": "HubSpot Blog",
-        "fecha": "Mon, 19 Oct 2026 13:45:04 GMT",
+        "fecha": "Fri, 23 Oct 2026 16:10:03 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "Why AI Makes Content Ecosystems Essential",
-        "enlace": "https://neilpatel.com/blog/ai-content-systems/",
+        "titulo": "The 4 Ps of Marketing: Product, Price, Place, and Promotion",
+        "enlace": "https://neilpatel.com/blog/4-ps-of-marketing/",
         "fuente": "Neil Patel",
-        "fecha": "Fri, 16 Oct 2026 16:00:00 +0000",
+        "fecha": "Fri, 23 Oct 2026 16:00:00 +0000",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "How Websites Are Becoming a Key Trust Signal for Consumers",
-        "enlace": "https://neilpatel.com/blog/website-credibility/",
+        "titulo": "How to Use Facebook Groups for Marketing",
+        "enlace": "https://neilpatel.com/blog/an-eye-opening-guide-create-grow-facebook-group/",
         "fuente": "Neil Patel",
-        "fecha": "Wed, 14 Oct 2026 16:00:00 +0000",
+        "fecha": "Wed, 21 Oct 2026 16:00:00 +0000",
         "categoria": "Marketing Digital"
       }
     ]
