@@ -1,36 +1,36 @@
 {
-  "fecha_generacion": "2026-10-26T15:48:42.063555",
+  "fecha_generacion": "2026-11-02T19:07:32.457127",
   "dia_ejecucion": "Lunes 9:00 AM",
   "noticias_por_categoria": {
     "IA": [
       {
-        "titulo": "Fixing Tool-Call Accuracy in vLLM",
-        "enlace": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+        "titulo": "Show HN: Subvocal – Talk to your computer without making noise",
+        "enlace": "https://subvocal.company/",
         "fuente": "Hacker News",
-        "fecha": "Mon, 26 Oct 2026 12:59:48 +0000",
+        "fecha": "Mon, 02 Nov 2026 17:16:17 +0000",
         "categoria": "IA"
       },
       {
-        "titulo": "One of the Greatest Inventions in the History of Human Transport",
-        "enlace": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
+        "titulo": "Astra can read and write weights to improve Qwen",
+        "enlace": "https://rikiyat.github.io/blog/weight-space-programming/",
         "fuente": "Hacker News",
-        "fecha": "Thu, 22 Oct 2026 19:52:50 +0000",
+        "fecha": "Mon, 02 Nov 2026 18:21:28 +0000",
         "categoria": "IA"
       }
     ],
     "SEO": [
       {
-        "titulo": "Your Google Ads Account Is Hitting Its Targets, So Why Isn’t The Business Growing?",
-        "enlace": "https://www.searchenginejournal.com/your-google-ads-account-is-hitting-its-targets-so-why-isnt-the-business-growing/592942/",
+        "titulo": "How To Run A Full-Funnel Ecommerce Account Through BFCM Week via @sejournal, @tonyadam",
+        "enlace": "https://www.searchenginejournal.com/how-to-run-a-full-funnel-ecommerce-account-through-bfcm-week/594047/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 26 Oct 2026 15:30:04 +0000",
+        "fecha": "Mon, 02 Nov 2026 15:00:59 +0000",
         "categoria": "SEO"
       },
       {
-        "titulo": "Google Gets The Thank-You via @sejournal, @pedrodias",
-        "enlace": "https://www.searchenginejournal.com/google-gets-the-thank-you/594108/",
+        "titulo": "Google Search Ad Visits Out-Earned ChatGPT Ads In U.S. via @sejournal, @MattGSouthern",
+        "enlace": "https://www.searchenginejournal.com/google-search-chatgpt-ad-revenue-per-visit/595596/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 26 Oct 2026 14:00:54 +0000",
+        "fecha": "Mon, 02 Nov 2026 14:41:23 +0000",
         "categoria": "SEO"
       },
       {
@@ -51,31 +51,31 @@
     "SEO Local": [],
     "Marketing Digital": [
       {
-        "titulo": "How to create Claude skills: What your team actually needs",
-        "enlace": "https://blog.hubspot.com/marketing/create-claude-skills",
+        "titulo": "AI maturity in marketing: What the research reveals",
+        "enlace": "https://blog.hubspot.com/marketing/ai-maturity",
         "fuente": "HubSpot Blog",
-        "fecha": "Mon, 26 Oct 2026 12:45:04 GMT",
+        "fecha": "Mon, 02 Nov 2026 17:50:05 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "Profound vs. Bluefish AI for AEO: Which tool wins for marketers?",
-        "enlace": "https://blog.hubspot.com/marketing/profound-vs-bluefish",
+        "titulo": "Scrunch vs. Semrush: Which tracks AI visibility better?",
+        "enlace": "https://blog.hubspot.com/marketing/scrunch-vs-semrush",
         "fuente": "HubSpot Blog",
-        "fecha": "Fri, 23 Oct 2026 16:10:03 GMT",
+        "fecha": "Mon, 02 Nov 2026 17:45:05 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "The 4 Ps of Marketing: Product, Price, Place, and Promotion",
-        "enlace": "https://neilpatel.com/blog/4-ps-of-marketing/",
+        "titulo": "Answer Engine Optimization: How to Improve AI Visibility",
+        "enlace": "https://neilpatel.com/blog/answer-engine-optimization/",
         "fuente": "Neil Patel",
-        "fecha": "Fri, 23 Oct 2026 16:00:00 +0000",
+        "fecha": "Fri, 30 Oct 2026 07:00:00 +0000",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "How to Use Facebook Groups for Marketing",
-        "enlace": "https://neilpatel.com/blog/an-eye-opening-guide-create-grow-facebook-group/",
+        "titulo": "How to Teach Content Strategy to Stakeholders Who Don’t Speak Marketing",
+        "enlace": "https://neilpatel.com/blog/teach-content-strategy-to-stakeholders/",
         "fuente": "Neil Patel",
-        "fecha": "Wed, 21 Oct 2026 16:00:00 +0000",
+        "fecha": "Wed, 28 Oct 2026 16:00:00 +0000",
         "categoria": "Marketing Digital"
       }
     ]
