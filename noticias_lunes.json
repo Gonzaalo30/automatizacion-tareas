@@ -1,36 +1,36 @@
 {
-  "fecha_generacion": "2026-11-02T19:07:32.457127",
+  "fecha_generacion": "2026-11-09T19:28:00.901722",
   "dia_ejecucion": "Lunes 9:00 AM",
   "noticias_por_categoria": {
     "IA": [
       {
-        "titulo": "Show HN: Subvocal – Talk to your computer without making noise",
-        "enlace": "https://subvocal.company/",
+        "titulo": "Too many men suffering in silence, national health report finds (Canada)",
+        "enlace": "https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds",
         "fuente": "Hacker News",
-        "fecha": "Mon, 02 Nov 2026 17:16:17 +0000",
+        "fecha": "Mon, 09 Nov 2026 18:27:58 +0000",
         "categoria": "IA"
       },
       {
-        "titulo": "Astra can read and write weights to improve Qwen",
-        "enlace": "https://rikiyat.github.io/blog/weight-space-programming/",
+        "titulo": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+        "enlace": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
         "fuente": "Hacker News",
-        "fecha": "Mon, 02 Nov 2026 18:21:28 +0000",
+        "fecha": "Mon, 09 Nov 2026 16:00:45 +0000",
         "categoria": "IA"
       }
     ],
     "SEO": [
       {
-        "titulo": "How To Run A Full-Funnel Ecommerce Account Through BFCM Week via @sejournal, @tonyadam",
-        "enlace": "https://www.searchenginejournal.com/how-to-run-a-full-funnel-ecommerce-account-through-bfcm-week/594047/",
+        "titulo": "Google Ads Tests Asset Activity Page With Weekly AI Insights via @sejournal, @MattGSouthern",
+        "enlace": "https://www.searchenginejournal.com/google-ads-tests-asset-activity-page-with-weekly-ai-insights/596442/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 02 Nov 2026 15:00:59 +0000",
+        "fecha": "Mon, 09 Nov 2026 16:30:00 +0000",
         "categoria": "SEO"
       },
       {
-        "titulo": "Google Search Ad Visits Out-Earned ChatGPT Ads In U.S. via @sejournal, @MattGSouthern",
-        "enlace": "https://www.searchenginejournal.com/google-search-chatgpt-ad-revenue-per-visit/595596/",
+        "titulo": "SEO Split Testing In 2027: How To Prove A Change Actually Worked",
+        "enlace": "https://www.searchenginejournal.com/seo-split-testing-prove-change-worked/594529/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 02 Nov 2026 14:41:23 +0000",
+        "fecha": "Mon, 09 Nov 2026 15:00:42 +0000",
         "categoria": "SEO"
       },
       {
@@ -51,31 +51,31 @@
     "SEO Local": [],
     "Marketing Digital": [
       {
-        "titulo": "AI maturity in marketing: What the research reveals",
-        "enlace": "https://blog.hubspot.com/marketing/ai-maturity",
+        "titulo": "Branded vs. unbranded queries in AI search — and how to track them",
+        "enlace": "https://blog.hubspot.com/marketing/branded-vs-unbranded-prompt-tracking",
         "fuente": "HubSpot Blog",
-        "fecha": "Mon, 02 Nov 2026 17:50:05 GMT",
+        "fecha": "Mon, 09 Nov 2026 13:05:05 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "Scrunch vs. Semrush: Which tracks AI visibility better?",
-        "enlace": "https://blog.hubspot.com/marketing/scrunch-vs-semrush",
+        "titulo": "Obstacles in marketing automation and how to fix them [2026]",
+        "enlace": "https://blog.hubspot.com/marketing/marketing-automation-challenges",
         "fuente": "HubSpot Blog",
-        "fecha": "Mon, 02 Nov 2026 17:45:05 GMT",
+        "fecha": "Fri, 06 Nov 2026 15:45:05 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "Answer Engine Optimization: How to Improve AI Visibility",
-        "enlace": "https://neilpatel.com/blog/answer-engine-optimization/",
+        "titulo": "Trending Keywords in AnswerThePublic: Find What’s Rising on Google and YouTube",
+        "enlace": "https://neilpatel.com/blog/answerthepublic-trending-keywords/",
         "fuente": "Neil Patel",
-        "fecha": "Fri, 30 Oct 2026 07:00:00 +0000",
+        "fecha": "Fri, 06 Nov 2026 20:00:00 +0000",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "How to Teach Content Strategy to Stakeholders Who Don’t Speak Marketing",
-        "enlace": "https://neilpatel.com/blog/teach-content-strategy-to-stakeholders/",
+        "titulo": "XML Sitemap Optimization: How to Improve Crawlability",
+        "enlace": "https://neilpatel.com/blog/xml-sitemap/",
         "fuente": "Neil Patel",
-        "fecha": "Wed, 28 Oct 2026 16:00:00 +0000",
+        "fecha": "Wed, 04 Nov 2026 20:00:00 +0000",
         "categoria": "Marketing Digital"
       }
     ]
