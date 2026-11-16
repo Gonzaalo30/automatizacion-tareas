@@ -1,36 +1,36 @@
 {
-  "fecha_generacion": "2026-11-09T19:28:00.901722",
+  "fecha_generacion": "2026-11-16T19:13:56.808964",
   "dia_ejecucion": "Lunes 9:00 AM",
   "noticias_por_categoria": {
     "IA": [
       {
-        "titulo": "Too many men suffering in silence, national health report finds (Canada)",
-        "enlace": "https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds",
+        "titulo": "Grazing sheep in fields with solar arrays",
+        "enlace": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
         "fuente": "Hacker News",
-        "fecha": "Mon, 09 Nov 2026 18:27:58 +0000",
+        "fecha": "Mon, 16 Nov 2026 17:27:46 +0000",
         "categoria": "IA"
       },
       {
-        "titulo": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-        "enlace": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+        "titulo": "Jiff 1.0: A datetime library for Rust",
+        "enlace": "https://burntsushi.net/jiff/",
         "fuente": "Hacker News",
-        "fecha": "Mon, 09 Nov 2026 16:00:45 +0000",
+        "fecha": "Mon, 16 Nov 2026 16:53:39 +0000",
         "categoria": "IA"
       }
     ],
     "SEO": [
       {
-        "titulo": "Google Ads Tests Asset Activity Page With Weekly AI Insights via @sejournal, @MattGSouthern",
-        "enlace": "https://www.searchenginejournal.com/google-ads-tests-asset-activity-page-with-weekly-ai-insights/596442/",
+        "titulo": "When The WordPress Plugin Update Is The Security Risk: Why SEOs Should Pay Attention via @sejournal, @cshel",
+        "enlace": "https://www.searchenginejournal.com/when-the-wordpress-plugin-update-is-the-security-risk-why-seos-should-pay-attention/595622/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 09 Nov 2026 16:30:00 +0000",
+        "fecha": "Mon, 16 Nov 2026 15:00:34 +0000",
         "categoria": "SEO"
       },
       {
-        "titulo": "SEO Split Testing In 2027: How To Prove A Change Actually Worked",
-        "enlace": "https://www.searchenginejournal.com/seo-split-testing-prove-change-worked/594529/",
+        "titulo": "ChatGPT Ads Vs. Google Search Ads: What Early Data Shows via @sejournal, @MattGSouthern",
+        "enlace": "https://www.searchenginejournal.com/chatgpt-ads-vs-google-search-ads-early-data/597125/",
         "fuente": "Search Engine Journal",
-        "fecha": "Mon, 09 Nov 2026 15:00:42 +0000",
+        "fecha": "Mon, 16 Nov 2026 13:00:58 +0000",
         "categoria": "SEO"
       },
       {
@@ -51,31 +51,31 @@
     "SEO Local": [],
     "Marketing Digital": [
       {
-        "titulo": "Branded vs. unbranded queries in AI search — and how to track them",
-        "enlace": "https://blog.hubspot.com/marketing/branded-vs-unbranded-prompt-tracking",
+        "titulo": "Claude AI for marketing: How teams use it with HubSpot",
+        "enlace": "https://blog.hubspot.com/marketing/claude-for-marketing",
         "fuente": "HubSpot Blog",
-        "fecha": "Mon, 09 Nov 2026 13:05:05 GMT",
+        "fecha": "Mon, 16 Nov 2026 13:55:04 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "Obstacles in marketing automation and how to fix them [2026]",
-        "enlace": "https://blog.hubspot.com/marketing/marketing-automation-challenges",
+        "titulo": "AI influencers: What consumer sentiment data tells brands",
+        "enlace": "https://blog.hubspot.com/marketing/ai-influencers",
         "fuente": "HubSpot Blog",
-        "fecha": "Fri, 06 Nov 2026 15:45:05 GMT",
+        "fecha": "Fri, 13 Nov 2026 13:45:04 GMT",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "Trending Keywords in AnswerThePublic: Find What’s Rising on Google and YouTube",
-        "enlace": "https://neilpatel.com/blog/answerthepublic-trending-keywords/",
+        "titulo": "AI Sentiment and Accuracy: The Metric Your Visibility Dashboard Is Missing (and How to Calibrate for It)",
+        "enlace": "https://neilpatel.com/blog/ai-sentiment-and-accuracy/",
         "fuente": "Neil Patel",
-        "fecha": "Fri, 06 Nov 2026 20:00:00 +0000",
+        "fecha": "Fri, 13 Nov 2026 20:00:00 +0000",
         "categoria": "Marketing Digital"
       },
       {
-        "titulo": "XML Sitemap Optimization: How to Improve Crawlability",
-        "enlace": "https://neilpatel.com/blog/xml-sitemap/",
+        "titulo": "How to Increase Form Conversions and Generate More Leads",
+        "enlace": "https://neilpatel.com/blog/the-definitive-guide-to-lead-generation-form-optimization/",
         "fuente": "Neil Patel",
-        "fecha": "Wed, 04 Nov 2026 20:00:00 +0000",
+        "fecha": "Wed, 11 Nov 2026 17:00:00 +0000",
         "categoria": "Marketing Digital"
       }
     ]
